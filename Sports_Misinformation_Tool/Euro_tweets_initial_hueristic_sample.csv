@@ -1,352 +1,605 @@
 ,Unnamed: 0,headline,word_count,char_count,avg_word_length,all_capitalized_word_count,punctuation_count,exclamation_count,question_mark_count,readability_score,smog_index,quotation_count,vocab_variety,sensational_words_count,absolute_words_count,factuality_words_count,subjectivity_score,objective_score,count_numerics,sentiment,label
-12335,12335,it was decided to hold a match for the first football team in zamalek club against tunisian esperance in the fourth round of the group stage matches of the african champions league.,32,181,4.6875,0,1,0,0,64.38,0.0,0,0.84375,0,0,0,0.0,0.0,0,neutral,True
-11587,11587,"tariq al-subaie, the uncle of big ramy, the bodybuilding champion, expressed his grief after his nephew lost the mr. olympia title this year, and contented himself with fifth place in the tournament.",32,199,5.25,0,7,0,0,63.7,0.0,0,0.875,0,0,0,0.0,0.0,0,positive,True
-20485,20485,david notwani: musimani's strategy with al-ahly is successful,8,61,6.75,0,3,0,0,29.52,0.0,0,1.0,0,0,0,0.0,0.0,0,positive,True
-20291,20291,"al-ahly was subjected to clear injustice, but the players and the coach bear responsibility for the loss",17,104,5.176470588235294,0,2,0,0,54.22,0.0,0,0.8823529411764706,0,0,0,0.0,0.0,0,neutral,True
-19331,19331,a great run at all levels from the eagles,9,41,3.6666666666666665,0,0,0,0,96.18,0.0,0,1.0,0,1,0,0.0,0.0,0,positive,True
-8743,8743,the board of directors of the federation will complete its meeting at 2:00 noon tomorrow and will receive the media at 5:00 pm to announce its decisions,27,152,4.666666666666667,0,2,0,0,52.53,0.0,0,0.7777777777777778,0,0,0,0.0,0.0,4,neutral,True
-2710,2710,"may god have mercy on the victims of the devastating earthquake in syria and turkey, and all the best wishes for a speedy recovery for the injured",27,146,4.444444444444445,0,1,0,0,60.99,0.0,0,0.8148148148148148,0,1,0,0.0,0.0,0,neutral,True
-18223,18223,"roy vittoria, on the authority of karim fouad: i am very impressed with his performance and know his playing style..and this is the reason why he was not included!
-#ontime_news https://t.co/etaazp9ojb",31,200,5.483870967741935,0,12,1,0,64.2,0.0,0,0.935483870967742,0,0,0,0.0,0.0,1,positive,True
-19067,19067,"imad miteb arrives in saudi arabia amidst a great celebration
-hadary was the first to receive him.",17,98,4.823529411764706,0,1,0,0,71.14,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-10285,10285,happy new year on the occasion of isra and miraj..,10,50,4.1,0,2,0,0,69.79,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-1338,1338,urgent arrival of the young africans team to burj al arab stadium,12,65,4.5,0,0,0,0,84.68,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-20836,20836,"the brazilian micale, the coach of the olympic football team, continued his preparatory meetings with his assistant staff at the headquarters of the football association in the al-hadaf project in the 6th of october city, in preparation for the meeting with zambia in the olympic qualifiers.",46,291,5.3478260869565215,0,5,0,0,24.79,0.0,0,0.6304347826086957,0,0,0,0.0,0.0,1,neutral,True
-2412,2412,"portuguese josevaldo ferreira, coach of the first football team at zamalek club, decided to include the new deals, moroccan ahmed belhadj, nasser mansi and mahmoud shabana, after the end of their registration crisis and the extraction of their cards.",39,250,5.435897435897436,0,6,0,0,31.89,0.0,0,0.8205128205128205,0,0,0,0.0,0.0,0,neutral,True
-9188,9188,"zamalek officials are intensifying negotiations at the present time with their counterparts in pyramids, in order to settle the abdullah al-saeed deal, captain of the heavenly team.",27,181,5.7407407407407405,0,4,0,0,27.15,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,0,neutral,True
-9124,9124,"lina al-tahtawi explains the latest preparations of our national team for the guinea match, and the most prominent of those excluded from the match
-#ontime_news https://t.co/lyt7gg7mpe",26,184,6.115384615384615,0,9,0,0,45.09,0.0,0,0.8461538461538461,0,0,0,0.0,0.0,2,neutral,True
-6173,6173,"the egyptian professional clubs association, headed by ahmed diab, chose next sunday, march 26, as the date for the match between zamalek and al-ahly bank in the round of 16 of the league cup.",34,192,4.676470588235294,0,6,0,0,53.89,0.0,0,0.8529411764705882,0,0,0,0.0,0.0,2,neutral,True
-14518,14518,"the egyptian national youth team, born in 2003, meets the canal team, today, monday, at the canal stadium in ismailia, in the friendly meeting that brings the two teams together, as part of the preparations for the young pharaohs for the african nations championship for youth u-20.",47,282,5.0212765957446805,0,9,0,0,40.69,0.0,0,0.7021276595744681,0,0,0,0.0,0.0,2,neutral,True
-5575,5575,"all the best wishes for victory for our national team, god willing",12,66,4.583333333333333,0,1,0,0,67.76,0.0,0,0.9166666666666666,0,1,0,0.0,0.0,0,neutral,True
-16020,16020,"today, sunday 12-18-2022, egyptian sports witnessed many important events.",9,74,7.333333333333333,0,5,0,0,53.88,0.0,0,1.0,0,0,0,0.0,0.0,3,neutral,True
-11354,11354,"director of the media center for pyramids, the additional swab proved the safety of all players, after the doubts of the first swab.",23,132,4.782608695652174,0,3,0,0,56.59,0.0,0,0.7391304347826086,0,1,0,0.0,0.0,0,positive,True
-6535,6535,"harsh punishment for the referees of the ""argentina-chile"" match because of the flag
-#ontimenews
-# we are all behind the egyptian national team https://t.co/voqkzcoqhf",24,167,6.0,0,10,0,0,31.21,0.0,1,0.8333333333333334,0,1,0,0.0,0.0,0,neutral,True
-9419,9419,thanks guys for everything,4,26,5.75,0,0,0,0,75.88,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-10119,10119,"egypt wins the arab cycling championship title with 36 medals
-#ontime_news https://t.co/udmlz73a8t",12,98,7.25,0,7,0,0,50.84,0.0,0,1.0,0,0,0,0.0,0.0,3,positive,True
-18915,18915,"egypt's plane defeats palestine 3/0 and is close to the arab championship title
-the egyptian national volleyball team, led by its coach hossam abdelaziz, managed to achieve the fourth successive victory, after defeating the egyptian national team",37,246,5.675675675675675,0,5,0,0,25.46,0.0,0,0.8378378378378378,0,0,0,0.0,0.0,2,positive,True
-5293,5293,al-ahly draws with smouha without goals in a technically poor match,11,67,5.181818181818182,0,1,0,0,77.23,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,True
-10205,10205,"the nomination of the back of haras el hodood to join zamalek
-#ontime_news https://t.co/4t3dvkcwgc",14,98,6.071428571428571,0,7,0,0,57.27,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,2,neutral,True
-7359,7359,"the draw ceremony for the u-20 african cup of nations will be held tomorrow, friday, as the tournament will be held in egypt during the coming months of february and march.",31,172,4.580645161290323,0,4,0,0,56.93,0.0,0,0.7741935483870968,0,0,0,0.0,0.0,1,neutral,True
-7191,7191,"al-ahly team is preparing to play a new match in the egyptian league today, tuesday, against pharco, after a draw with future with a goal for each team in the last round of the competition.",35,189,4.428571428571429,0,5,0,0,61.33,0.0,0,0.8,0,0,0,0.0,0.0,0,neutral,True
-7609,7609,"the management of the zamalek club is awaiting the response of imam ashour, the player of the first football team in the white club, regarding determining his fate with those who will stay with the team.",36,203,4.666666666666667,0,3,0,0,60.32,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,True
-9442,9442,"swiss marcel koller, al-ahly's technical director, will hold a final technical lecture for the players at 2:30 this afternoon, saturday, at the delegation's residence in tangier, morocco.",27,187,5.962962962962963,0,10,0,0,18.69,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,2,neutral,True
-8883,8883,"throughout its history, egyptian sports have many stars who shone in its sky and became legends and stars whose names fans sing to this day.",25,140,4.64,0,2,0,0,79.94,0.0,0,0.88,0,0,0,0.0,0.0,0,neutral,True
-3207,3207,"""mohamed salah is not superman."" hamada sidqi explains his opinion on the egyptian national team's performance with queiroz and the criticisms that salah is exposed to during the tournament
-#ontime_news https://t.co/b3usgayz9z",31,226,6.32258064516129,0,11,0,0,47.28,0.0,1,0.8709677419354839,0,0,0,0.0,0.0,2,neutral,True
-16410,16410,"eastern company club, despite the defeat, made a good match",10,59,5.0,0,2,0,0,69.79,0.0,0,1.0,0,0,0,0.0,0.0,0,positive,True
-2781,2781,"the shirt of cristiano ronaldo, the saudi al-nasr striker, appeared in the stands of the zamalek fans, who crawled today to burj al-arab stadium to watch their team's match against al-ittihad of alexandria in the thirteenth round of the league.",40,244,5.125,0,8,0,0,47.8,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,True
-11051,11051,"tamer mostafa, the technical director of the first football team at enppi club, is preparing the substitute for imad mihoub, the defender of the petroleum team, to face zamalek in the match scheduled for next sunday.",36,216,5.027777777777778,0,5,0,0,43.4,0.0,0,0.8055555555555556,0,0,0,0.0,0.0,0,neutral,True
-4252,4252,"the confederation of african football announced the date of the egypt-malawi national team match in the 2024 african cup of nations qualifiers, which is scheduled to be held next january in cote d'ivoire.",33,204,5.212121212121212,0,4,0,0,46.44,0.0,0,0.7878787878787878,0,0,0,0.0,0.0,1,neutral,True
-11275,11275,"al-ahly is playing a new match against smouha in the cup, after its match with al-masry ended in a goalless draw in the league.",24,127,4.333333333333333,0,4,0,0,72.5,0.0,0,0.7916666666666666,0,0,0,0.0,0.0,0,neutral,True
-2150,2150,"hamada tolba tells his memories with the egyptian national team in the african nations championship in gabon
-#ontime_news https://t.co/iokv8qqrh6",19,145,6.684210526315789,0,7,0,0,43.73,0.0,0,0.8947368421052632,0,0,0,0.0,0.0,2,neutral,True
-16339,16339,"kahraba and shadwa el-hadary's engagement was annulled..the player's agent confirmed the annulment of kahraba's engagement to shadwa najla, essam el-hadary, and stated, ""there is no share.""",26,189,6.307692307692308,0,13,0,0,49.82,0.0,1,0.8846153846153846,0,0,0,0.0,0.0384615384615384,0,neutral,True
-17694,17694,"al-ittihad of alexandria contracts with abdullah nassib, jordan's defender, for a period of two years",15,101,5.8,0,4,0,0,39.33,0.0,0,0.9333333333333332,0,0,0,0.0,0.0,0,neutral,True
-3396,3396,al-ahly finishes tonight its preparations to appear again in the egyptian league after a goalless draw with smouha in the last round of the competition,25,151,5.08,0,1,0,0,63.02,0.0,0,0.88,0,0,0,0.0,0.0,0,neutral,True
-4153,4153,"al-ahly is the historical champion of the egyptian league after achieving the title 42 times, while zamalek is the second most club to win the championship, with a total of 14 times.",32,182,4.71875,0,4,0,0,55.92,0.0,0,0.8125,0,0,0,0.0,0.0,2,neutral,True
-13421,13421,"real madrid is playing its first match in the tournament, starting from the semi-finals, as the european champions league title holder",21,134,5.428571428571429,0,3,0,0,50.16,0.0,0,0.9047619047619048,0,0,0,0.0,0.0,0,neutral,True
-4903,4903,"the competitions committee is awaiting the end of the matches of the four teams participating in the african championships, which are zamalek, al-ahly, pyramids and future, to announce the postponements of the league and the dates of the rest of the mobiles.",42,258,5.166666666666667,0,6,0,0,37.31,0.0,0,0.6666666666666666,0,0,0,0.0,0.0,0,neutral,True
-14214,14214,"hossam hassan scored the lead goal for smouha in the 24th minute, after he took advantage of a corner to turn it into omar radwan, the army goalkeeper, to announce the progress of the alexandrian team.",36,201,4.611111111111111,0,4,0,0,51.86,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,1,neutral,True
-18132,18132,reda shehata: i trust the group of players in el gouna,11,54,4.0,0,1,0,0,77.23,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-6100,6100,"al-ahly management settled on extending and renewing the players' contracts, which will expire soon, in order to preserve the basic structure of the team and not allow its contract to lapse.",31,190,5.161290322580645,0,5,0,0,48.47,0.0,0,0.8709677419354839,0,0,0,0.0,0.0,0,neutral,True
-13263,13263,the volleyball team of zamalek club defeated its counterpart al-tayaran 3/0 in the first round of the semi-final round of the premier league competition for volleyball men at cairo stadium.,30,189,5.333333333333333,0,4,0,0,41.03,0.0,0,0.7666666666666667,0,0,0,0.0,0.0,2,neutral,True
-14808,14808,"ammar hamdi was injured in the knee, and x-rays were taken to determine the extent of the injury, and he will often be absent from the team",27,139,4.185185185185185,0,3,0,0,60.99,0.0,0,0.8518518518518519,0,0,0,0.0,0.0,0,neutral,True
-5764,5764,"learn about the list of the olympic team for the september camp
-#ontime_news https://t.co/pa97o5vw6q",14,100,6.214285714285714,0,7,0,0,74.19,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,3,neutral,True
-2323,2323,half an hour and still negative tie dominates the meeting,10,57,4.8,0,0,0,0,69.79,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,True
-6202,6202,"hamdi karwan, the former left back of al-ahly club, is considered one of the most important football talents and the last eyewitnesses who left our world to crown the red castle.",31,178,4.774193548387097,0,4,0,0,56.93,0.0,0,0.8387096774193549,0,0,0,0.0,0.0,0,neutral,True
-8687,8687,"officially, morocco organizes the upcoming club world cup",8,57,6.25,0,1,0,0,21.06,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-12868,12868,"al-ahly's medical staff is racing against time to prepare taher mohamed taher, the team's player, for the match against al-masry al-port said, scheduled for january 12.",26,168,5.5,0,9,0,0,53.55,0.0,0,0.8846153846153846,0,0,0,0.0,0.0,1,neutral,True
-1719,1719,"for $3 million per season, musimani is close to training al-duhail, qatar
-#ontime_news https://t.co/ydurvoinxx",14,110,6.928571428571429,0,11,0,0,48.81,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,True
-1063,1063,"sayed abdullah ""neymar"", the player of the first football team at zamalek club, underwent a medical examination to determine his position on returning to group training for the white team.",30,188,5.3,0,5,0,0,32.57,0.0,1,0.9,0,0,0,0.0,0.0,0,neutral,True
-14639,14639,a friendly experience for ismaili before facing haras el hodoud in the league,13,77,5.0,0,0,0,0,58.28,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
-2115,2115,"the karate players took part in the last training session at the olympic center in maadi, before the start of the premier league world championship.",25,148,4.96,0,2,0,0,63.02,0.0,0,0.8,0,0,0,0.0,0.0,0,neutral,True
-13205,13205,"today, the sixth round matches of the men's basketball super league will be held, to arrange the positions from the ninth to the sixteenth.",24,139,4.833333333333333,0,4,0,0,64.04,0.0,0,0.7916666666666666,0,0,0,0.0,0.0,0,neutral,True
-12637,12637,the egyptian football clubs association announced the suspension of the league between march 19 and 30 due to the matches between egypt and malawi in the african nations qualifiers.,29,181,5.275862068965517,0,1,0,0,50.5,0.0,0,0.7931034482758621,0,0,0,0.0,0.0,2,negative,True
-12644,12644,"ahmed yasser rayan, striker of ceramica team, won the man of the match award for his team, against pharco.",19,106,4.631578947368421,0,4,0,0,77.57,0.0,0,0.8421052631578947,0,0,0,0.0,0.0,0,positive,True
-21024,21024,"ali jabr, at the end of today's training session, suffered a bruise in the face, and he is accompanied by dr. muhammad abu al-ela to take x-rays to clarify the condition.",31,170,4.516129032258065,0,8,0,0,72.66,0.0,0,0.9032258064516128,0,0,0,0.0,0.0,0,neutral,True
-20688,20688,"zamalek refuses to renew shabana's loan to al-ittihad because of the marawan attia deal
-#ontime_news https://t.co/v58gzr5rvp",16,124,6.8125,0,9,0,0,38.32,0.0,0,0.9375,0,0,0,0.0,0.0,2,negative,True
-3829,3829,"egypt's youth fencing team achieved a historic achievement by winning the gold medal in the world cup held in italy, after defeating hungary in the final, 45-44.",27,161,5.0,0,5,0,0,69.45,0.0,0,0.8518518518518519,0,0,0,0.0,0.0,2,positive,True
-7898,7898,zamalek wants to sign players who did not participate with their clubs in the african championships during the current season,20,125,5.3,0,0,0,0,59.64,0.0,0,0.95,0,0,0,0.0,0.0,0,neutral,True
-5022,5022,"queiroz: we are all one family in the national team, and the players think with the same mentality.. and he explains why mohamed salah did not attend the press conference
-#ontime_news https://t.co/vmveoj667t",32,207,5.5,0,11,0,0,55.24,0.0,0,0.875,0,1,0,0.03125,0.0,1,neutral,True
+4334,4334,"zamalek abandoned the summit after losing the last match against aswan 2/1, while al-ahly topped the summit, 3 points ahead of zamalek, after defeating pyramids in the last match, 3-0.",30,184,5.166666666666667,0,8,0,0,57.95,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,5,neutral,True
+3895,3895,"today, tuesday, march 14, 2023, the sports bulletin witnessed many important sports news, most notably, mikali announces the egyptian olympic team list in preparation for the zambia matches, shikabala and chefou outside the zamalek list in front of the youth of belouizdad.",42,273,5.523809523809524,0,8,0,0,37.31,0.0,0,0.8095238095238095,0,0,0,0.0,0.0,2,neutral,True
+8880,8880,an official source in the african union confirms that there is absolutely no truth to the killing of gambian referee bakary gassama by fans in paris,26,148,4.730769230769231,0,0,0,0,62.01,0.0,0,0.9230769230769232,0,0,0,0.0,0.0,0,neutral,True
+1282,1282,sincere condolences to captain abdul wahid al-sayed on the death of his father. we belong to allah and to him we shall return,23,125,4.478260869565218,0,2,0,0,76.72,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,0,neutral,True
+8576,8576,"a sudanese newspaper reveals the caf penalty against al-hilal after the events of the al-ahly match
+#ontime_news https://t.co/gxpp8ckma7",18,136,6.611111111111111,0,9,0,0,44.75,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,2,neutral,True
+20354,20354,"jana hossam abu al-saud, players of the july 23 club team in el-mahalla, managed to win the gold medal in the egyptian taekwondo championship, which was held at the mubarak olympic center in smouha.",34,198,4.852941176470588,0,6,0,0,53.89,0.0,0,0.8529411764705882,0,0,0,0.0,0.0,1,positive,True
+17361,17361,"and the al-ahly club management sent a letter to the egyptian professional football clubs association, requesting the postponement of the al-ahly match in the league cup, which is held during the league's suspension period.",34,223,5.588235294117647,0,6,0,0,36.97,0.0,0,0.8235294117647058,0,0,0,0.0,0.0,0,neutral,True
+18051,18051,"today, monday, 4 matches were held, as part of the eighth round of the egyptian league competition. the first brought together ceramica with the interior, and the second included future with ghazl el mahalla.",34,208,5.147058823529412,0,6,0,0,54.22,0.0,0,0.8235294117647058,0,0,0,0.0,0.0,1,neutral,True
+837,837,"learn about zamalek's most prominent preparations before facing ismaily in the premier league
+#ontime_news https://t.co/ltjlk2aawd",15,130,7.733333333333333,0,8,0,0,30.87,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,True
+8038,8038,"the delegation of the pyramids club team left cairo international airport, on its way to morocco, in preparation for facing the royal army in the framework of the confederation cup matches.",31,189,5.129032258064516,0,3,0,0,31.55,0.0,0,0.8064516129032258,0,0,0,0.0,0.0,0,neutral,True
+10918,10918,"mohamed youssef, the technical director of talaea el-jaish, is studying the matches of the national bank in the league, the last of which was his match with zamalek, which he lost with a goal without a response in the fatal time.",41,229,4.609756097560975,0,6,0,0,46.78,0.0,0,0.7317073170731707,0,0,0,0.0,0.0,0,neutral,True
+5886,5886,"oh boy.. this is how gedo and sherif ekramy congratulated el-hawy, with the aim of qualifying for the african final
+sherif ekramy, al-ahly club goalkeeper, and mohamed nagy gedo, the former egyptian national team player, were keen to congratulate walid suleiman, for his goal that contributed to the rise of al-ahly club.",52,321,5.1923076923076925,0,12,0,0,27.16,0.0,0,0.8269230769230769,0,0,0,0.0,0.0,0,neutral,True
+1733,1733,"today, thursday 1/12/2023, egyptian sports witnessed many important sports news, including al-ahly tied negatively with al-masry in the ""missed opportunities"" match.",21,165,6.904761904761905,0,10,0,0,33.24,0.0,1,0.9523809523809524,0,0,0,0.0,0.0,3,neutral,True
+16974,16974,"zamalek club was crowned the african cup winners' cup title, after defeating canon yaounde, the cameroonian champion, on this day, december 10, 2000.",23,149,5.521739130434782,0,7,0,0,56.59,0.0,0,0.9130434782608696,0,0,0,0.0,0.0,2,neutral,True
+5304,5304,"ahmed sami, the coach of the smouha team, announced the formation of his team to face zamalek, which is scheduled for seven in the evening, monday, at burj al arab stadium in alexandria.",33,186,4.666666666666667,0,6,0,0,63.36,0.0,0,0.8484848484848485,0,0,0,0.0,0.0,0,neutral,True
+2037,2037,"ahmed el-shennawy, the pyramids goalkeeper, confirmed that the confrontation that brought his team together with togolese asco kara is important because there is no alternative to winning, especially after a tie in the first and second rounds.",37,243,5.594594594594595,0,5,0,0,33.92,0.0,0,0.8918918918918919,0,0,0,0.0,0.027027027027027,0,neutral,True
+3260,3260,"rui vitoria, the coach of the national team, published pictures on his page on the social networking site ""instagram"" during his meeting with the prime minister of portugal, antonio costa.",30,188,5.3,0,6,0,0,32.57,0.0,1,0.8,0,0,0,0.0,0.0,0,neutral,True
+7049,7049,"the board of directors of the wrestling federation decided to hold the general assembly of the federation on december 23 to discuss several important matters, on top of which is the budget and the final account of the federation.",39,229,4.897435897435898,0,2,0,0,23.43,0.0,0,0.6666666666666666,0,0,0,0.0,0.0,1,neutral,True
+10246,10246,"saif issa wins the bronze medal in the world taekwondo championship in mexico
+#ontime_news https://t.co/uk87jp8twx",15,114,6.666666666666667,0,7,0,0,47.79,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,2,positive,True
+13551,13551,"the first football team of the ismaili club played its main training this afternoon - wednesday - at its main stadium in ismailia, as part of its preparatory program to meet smouha in the framework of the general league competitions.",40,233,4.85,0,4,0,0,41.37,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,True
+6818,6818,"portuguese josevaldo ferreira, coach of zamalek, held a session with al-abyad players before the start of today's training session at the rades sub-stadium, in preparation for the upcoming tunisian esperance match in the african champions league.",36,246,5.861111111111111,0,7,0,0,26.48,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,True
+2279,2279,"in 1960, he joined the cubs of the al-ittihad club under 16 years old, and the late sayed houda chose him after a year of training with the first team, and shehta al-iskandarani played his first match with the first team in 1962.",43,229,4.348837209302325,0,6,0,0,61.67,0.0,0,0.7674418604651163,0,0,0,0.0,0.0,3,neutral,True
+13710,13710,the al-ahly match in this round was postponed due to the red genie's preoccupation with participating in the club world cup.,21,124,4.9523809523809526,0,3,0,0,58.62,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,True
+15604,15604,"the end of the first half of the al-ahly bank and zamalek match, with a goalless draw.
+your predictions for the second half?",23,124,4.434782608695652,0,4,0,1,93.64,0.0,0,0.8260869565217391,0,0,0,0.0,0.0,0,neutral,True
+5791,5791,"after the arab exit.. ismaily resumes his training in preparation for the cameroonian champion
+the ismaili team will resume its training today, thursday, to start its preparatory program for the match against cameroonian cotton, which is scheduled for next sunday, for the first-leg round of the 32nd round of the african champions league, in its exceptional version.",57,367,5.456140350877193,0,9,0,0,42.55,0.0,0,0.7192982456140351,0,0,0,0.0,0.0,1,neutral,True
+1581,1581,"under the leadership of the old man.. ismaily continues training in preparation for the zamalek match in the league
+#ontime_news https://t.co/sjlmcmykmc",21,152,6.285714285714286,0,9,0,0,52.36,0.0,0,0.8095238095238095,0,0,0,0.0,0.0,0,neutral,True
+7303,7303,"saul macaleos, argentine journalist: argentina's performance during the world cup is great... messi is at his best and is doing things he has never done before with tango
+#ontime_news https://t.co/v4kntdib6x",30,207,5.933333333333334,0,13,0,0,47.79,0.0,0,0.9333333333333332,0,1,0,0.0,0.0,2,positive,True
+21402,21402,"mohamed abdullah explains his technical opinion on the al-ahly and pyramids match in the league, and chooses the best formation for the red castle
+#ontime_news https://t.co/d8oeopciy5",26,183,6.076923076923077,0,9,0,0,45.09,0.0,0,0.8461538461538461,0,0,0,0.0,0.0,2,neutral,True
+21613,21613,soaresh brings surprises in the summit match,7,44,5.428571428571429,0,0,0,0,81.29,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+13972,13972,"the registration door was officially closed during the winter transfer season in egyptian football, which extended from january 1 to january 31 of the same month, and witnessed the registration of all club deals after scheduling their dues, with the exception of zamalek club.",44,276,5.295454545454546,0,4,0,0,26.82,0.0,0,0.8181818181818182,0,1,0,0.0,0.0,2,neutral,True
+16979,16979,what do you think of this judging panel.. amin omar... youssef al-basati... hany khairy,14,87,5.285714285714286,0,9,0,0,91.11,0.0,0,1.0,0,0,0,0.0714285714285714,0.0,0,neutral,True
+9034,9034,tarek magdy is the referee for the petrojet and el gouna match..mohamed maarouf for ismaily and smouha today in the 8th round of the premier league,26,147,4.6923076923076925,0,2,0,0,83.66,0.0,0,0.8076923076923077,0,0,0,0.0,0.0,1,neutral,True
+10968,10968,"the coaching staff of the aswan team, led by ayman al-ramadi, set up a special training program for hussam arafat, who is returning to participate after an absence of nearly a year and a half.",35,192,4.514285714285714,0,5,0,0,44.41,0.0,0,0.8857142857142857,0,0,0,0.0,0.0,0,neutral,True
+20846,20846,"al-ahly club officials are currently putting the final frills on the deal for the new foreign striker, who will be contracted within the next few days",26,150,4.807692307692308,0,2,0,0,62.01,0.0,0,0.8846153846153846,0,0,0,0.0,0.0,0,neutral,True
 4351,4351,"the referees committee of the egyptian football association announced the referees for tomorrow's matches, which will hold 4 matches within the seventh round of the egyptian premier league competition.",29,201,5.965517241379311,0,3,0,0,25.12,0.0,0,0.7586206896551724,0,0,0,0.0,0.0,1,neutral,True
-4463,4463,"mostafa zico, haras el-hodood player, got the man in the match of ghazl el-mahalla and haras el-hodood, which brought them together today at ghazl el-mahalla stadium.",26,166,5.423076923076923,0,8,0,0,36.63,0.0,0,0.8461538461538461,0,0,0,0.0,0.0,0,neutral,True
-17617,17617,"osama nabih: the presence of mohamed abdel shafi with the national team is an addition at any time
-#president _ of _ zamalek _ with _ saif _ zaher",29,146,4.068965517241379,0,7,0,0,58.96,0.0,0,0.7586206896551724,0,0,0,0.0,0.0,0,neutral,True
-21202,21202,"karim arafat, the right defender of the ismaili club's first football team, is ready to participate with his team in the upcoming matches after his recovery.",26,157,5.076923076923077,0,4,0,0,53.55,0.0,0,0.8846153846153846,0,0,0,0.0,0.0,0,neutral,True
-2859,2859,"mashallah, the brother who responded with his disrespectful tweet, and who i will not repeat again, i think this is one of the first to whom the new amendment to the law will be applied, which means at least 5 years of imprisonment, by the way, my words are serious, i am not joking",54,282,4.2407407407407405,0,7,0,0,42.05,0.0,0,0.7962962962962963,0,0,0,0.0185185185185185,0.0,1,neutral,True
-21516,21516,"the football management of al-ahly club settled on allocating an open budget in order to conclude strong deals during the winter transfer period next january, and to meet the needs of swiss coach marcel kohler,",35,210,5.0285714285714285,0,3,0,0,44.41,0.0,0,0.8857142857142857,0,0,0,0.0,0.0,0,positive,True
-13177,13177,"egyptian artists join forces with the masses to support the national team before facing russia
-a number of artists were keen to publish their photos and video clips through their personal accounts on various social networking sites, with the egyptian fans in russia, to support the national team.",48,296,5.1875,0,3,0,0,31.22,0.0,0,0.7708333333333334,0,0,0,0.0,0.0,0,neutral,True
-4010,4010,"al-ahly team continued training in south africa, in preparation for facing cameroonian cotton next friday evening, within the framework of the fifth round of the group stage in the african champions league.",32,206,5.46875,0,4,0,0,55.92,0.0,0,0.8125,0,0,0,0.0,0.0,0,neutral,True
-19077,19077,"eastern company sports officials, headed by eng. nasr, announced the contract with ashraf rayan, a member of the club, to lead the team this season.",25,148,4.96,0,6,0,0,75.71,0.0,0,0.92,0,0,0,0.0,0.0,0,neutral,True
-16870,16870,now the start of the match between al-ahly and vanguards of the army at the beginning of the second round of the egyptian general league,25,136,4.48,0,1,0,0,71.48,0.0,0,0.68,0,0,0,0.0,0.0,0,neutral,True
-19624,19624,al-ahly officials are awaiting the final decision of the professional clubs association on the red genie's request to postpone the al-masry al-port said match in the round of sixteen.,29,183,5.344827586206897,0,5,0,0,33.58,0.0,0,0.8275862068965517,0,0,0,0.0,0.0,0,neutral,True
-16867,16867,"""al-ahly is looking for solutions to strengthen the defense line, and maaloul is conducting x-rays to find out the extent of his injury."" a tour of al-ahly news
-#ontime_news https://t.co/w0kfpj3yke",30,197,5.6,0,14,0,0,73.17,0.0,1,0.8666666666666667,0,0,0,0.0,0.0,2,neutral,True
-1328,1328,"fifa announces behind the scenes of the closing ceremony of the qatar world cup 2022
-#ontime_news https://t.co/rdcycrcyed",17,121,6.176470588235294,0,7,0,0,37.3,0.0,0,0.8235294117647058,0,0,0,0.0,0.0,1,neutral,True
-15561,15561,"today.. ""caf"" is conducting the draw for the caf champions league and the confederation
-#ontime_news https://t.co/5legouxyrn",16,124,6.8125,0,11,0,0,38.32,0.0,1,0.875,0,0,0,0.0,0.0,1,neutral,True
-383,383,"al-ahly's coaching staff, led by marcel koller, reassured the readiness of the duo ahmed abdel-qader and khaled abdel-fattah for their team's match against sun downs.",25,166,5.68,0,8,0,0,63.02,0.0,0,0.96,0,0,0,0.0,0.0,0,positive,True
-21120,21120,"the team's delegation is flying today to malawi to face ethiopia in the second round of the african nations qualifiers
-#ontime_news https://t.co/nnt7ugi6ni",22,155,6.090909090909091,0,8,0,0,49.15,0.0,0,0.8636363636363636,0,0,0,0.0,0.0,2,neutral,True
-18137,18137,"the most prominent 7 news witnessed by egyptian sports today, wednesday 2/15/2023, foremost of which is ahmed kandosi, who is organizing al-ahly's training in nasr city.",26,169,5.538461538461538,0,8,0,0,53.55,0.0,0,0.9615384615384616,0,0,0,0.0,0.0,4,neutral,True
-1503,1503,"the competitions committee decided to suspend mohamed ibrahim, director of football at al-ittihad club, for two matches and fine him 20,000 pounds for entering the stadium in his team's match against al-assiouty without permission and inciting his players to withdraw.
-and al-ittihad club was fined ten thousand pounds for the unsportsmanlike behavior of its companions.. to be continued",58,387,5.689655172413793,0,10,0,0,43.43,15.5,0,0.7931034482758621,0,0,0,0.0,0.0,2,neutral,True
-17086,17086,"mohamed ibrahim kisho, the national wrestling team player, ended his camp in hungary due to a renewed shoulder injury",19,117,5.2105263157894735,0,2,0,0,60.65,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,True
-2988,2988,"zamalek won the title in the last two seasons, to continue its control of local titles in the past few seasons, while pyramids ranked second in the 2021-22 season, beating al-ahly third.",32,186,4.84375,0,6,0,0,55.92,0.0,0,0.8125,0,0,0,0.0,0.0,2,positive,True
-12660,12660,"kohler is looking for the eighth victory for al-ahly tonight to maintain the summit, and sami is on the task of correcting the course of his team.",27,146,4.444444444444445,0,3,0,0,69.45,0.0,0,0.7777777777777778,0,0,0,0.0,0.0,0,positive,True
-3147,3147,good luck to hadia hosni and duha hani at the end of the badminton group stage,16,78,3.9375,0,0,0,0,89.08,0.0,0,0.9375,0,0,0,0.0,0.0,0,positive,True
-7112,7112,"the youth taekwondo team finishes its participation in the world championship with a bronze medal
-#ontime_news https://t.co/7ap2vbp5pl",17,134,6.941176470588236,0,7,0,0,37.3,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,3,neutral,True
-2265,2265,"shikabala's penalty is 8 months, not 8 matches",8,46,4.875,0,2,0,0,71.82,0.0,0,0.875,0,0,0,0.0,0.0,2,neutral,True
-7695,7695,"today, wednesday 22/2/2023, two matches were held within the 19th round of the egyptian premier league, where the arab contractors hosted its counterpart future, while al-masry al-port said met with pyramids.",31,208,5.741935483870968,0,9,0,0,48.47,0.0,0,0.935483870967742,0,0,0,0.0,0.0,4,neutral,True
-10163,10163,"zamalek is studying lifting the financial penalty for the players and continuing it with carteron
+20039,20039,"details of zamalek's negotiations with ahmed belhadj
+#ontime_news https://t.co/r5lhwf1urk",9,89,9.0,0,8,0,0,3.12,0.0,0,1.0,0,0,0,0.0,0.0,2,neutral,True
+9779,9779,final round schedules for women's football competitions,7,55,7.0,0,1,0,0,30.53,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+12493,12493,"al-ahly team will receive a negative rest for 24 hours today, friday, as part of the preparation program for its match against al-ittihad of alexandria, within the competitions of the fourth round of the life of the egyptian league competition.",40,244,5.125,0,6,0,0,39.34,0.0,0,0.775,0,0,0,0.0,0.0,1,neutral,True
+6481,6481,"intensive sessions at al-ahly to resolve the file of loanees and new deals..and the planning committee recommends keeping ahmed yasser rayan
+#ontime_news https://t.co/mwrdjo0lwo",23,177,6.739130434782608,0,10,0,0,42.88,0.0,0,0.9565217391304348,0,0,0,0.0,0.0,1,neutral,True
+20057,20057,"hussein al-shahat: a transfer decision for al-ahly after the club world cup
+hussein al-shahat, the emirati player, al-ain, spoke about his transfer to al-ahly club during the next january transfer season, and decided his fate during the coming period.",39,251,5.461538461538462,0,11,0,0,31.89,0.0,0,0.7435897435897436,0,0,0,0.0,0.0,0,neutral,True
+10150,10150,"today.. the football association closes the summer registration door for premier league clubs
+#ontime_news https://t.co/cb1mcb0csx",15,130,7.733333333333333,0,9,0,0,13.95,0.0,0,0.9333333333333332,0,0,0,0.0,0.0,2,neutral,True
+20731,20731,mortada mansour confirms: gensh claimed the injury months ago because he objected to sitting on the bench...,17,108,5.411764705882353,0,4,0,0,62.68,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,0,neutral,True
+6672,6672,"referees of (friday) matches, production x contractors: ibrahim noureddine-enppi x al-raja: mohamed youssef-al-masry x ismaili: mahmoud al-banna - interior x ittihad: osama ismail",23,179,6.826086956521739,0,13,0,0,-1.63,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,0,neutral,True
+14275,14275,"carlos kordad, the general coach of the danish team mittelland, revealed that imam ashour, the player of the team, will join within 3 or 4 days in the team camp in portugal, and after completing the procedures for registering the player and participating in training to find out his physical and technical condition before joining the list participating in the matches. .",62,371,5.0,0,7,0,0,1.1,0.0,0,0.7258064516129032,0,0,0,0.0,0.0,2,neutral,True
+21106,21106,"the association of professional clubs awarded ahmed al-sheikh, the player of ghazl al-mahalla ali, the man of his team's match against vanguards of the army, as he scored two goals in the match that ended with al-falahin's victory, with three goals to one.",43,256,4.976744186046512,0,10,0,0,44.75,0.0,0,0.7674418604651163,0,0,0,0.0,0.0,0,neutral,True
+13586,13586,"anwar salama, the former al-ahly star, confirmed that real madrid is a dangerous team and includes great players.",18,113,5.333333333333333,0,4,0,0,61.67,0.0,0,1.0,0,0,0,0.0,0.0555555555555555,0,positive,True
+8925,8925,"today, the matches of the 8th round of the second division league competition will be concluded with 7 confrontations that are very strong and club, as 7 matches will be held in the second group, which includes cairo and al-qanat clubs.",41,236,4.780487804878049,0,5,0,0,46.78,0.0,0,0.7560975609756098,0,0,0,0.0,0.0,3,neutral,True
+12842,12842,"the karate team will leave for south africa today, tuesday, to participate in the african championship, which will be held from november 29 to december 5.",26,154,4.961538461538462,0,4,0,0,62.01,0.0,0,0.8846153846153846,0,0,0,0.0,0.0,2,neutral,True
+5976,5976,"the ceramica and al-dakhiliya teams will open the eighth round of the league, next monday afternoon, at exactly 3:15, at cairo international stadium.",23,149,5.521739130434782,0,6,0,0,39.67,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,2,neutral,True
+6668,6668,"""fifa opens an urgent investigation into the crisis of the croatian fans ... and a fine for the german national team."" the latest news of the qatar world cup 2022
+#ontime_news https://t.co/o3uccex7rc",32,199,5.25,0,13,0,0,61.02,9.7,1,0.84375,0,0,0,0.0,0.0,3,positive,True
+6909,6909,"alaa ezzat: tomorrow, al-ahly club will meet the runner-up, al-ahly bank",11,72,5.636363636363637,0,6,0,0,77.23,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,0,neutral,True
+6202,6202,"hamdi karwan, the former left back of al-ahly club, is considered one of the most important football talents and the last eyewitnesses who left our world to crown the red castle.",31,178,4.774193548387097,0,4,0,0,56.93,0.0,0,0.8387096774193549,0,0,0,0.0,0.0,0,neutral,True
+17896,17896,congratulations real madrid super cup,5,37,6.6,0,0,0,0,15.64,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+15522,15522,"the swiss, marcel koller, the technical director of al-ahly club, decided to pay the six-month-old, mohamed el-shennawy, ali maaloul, mohamed hani, elio diang, hussein el-shahat and mahmoud abdel-moneim kahraba.",29,211,6.310344827586207,0,15,0,0,33.58,0.0,0,0.896551724137931,0,0,0,0.0,0.0,0,neutral,True
+10219,10219,"osama nabih, the general coach of zamalek: our rise was not only with our feet, and we relied on others",20,103,4.2,0,3,0,0,76.56,0.0,0,0.95,0,0,0,0.0,0.0,0,neutral,True
+10816,10816,"without being too rigid, so don't be upset",8,42,4.375,0,2,0,0,80.28,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+14828,14828,"mahmoud gaber, coach of the egyptian youth team, born in 2003, announced the formation of the pharaohs youth team against senegal, in the match that brought together the two teams shortly at cairo stadium.",34,205,5.0588235294117645,0,5,0,0,62.35,0.0,0,0.7941176470588235,0,0,0,0.0,0.0,1,neutral,True
+7163,7163,"ramadan sobhi, player of the first football team at pyramids club, won the best player award in his team's match against ceramica in the premier league.",26,152,4.884615384615385,0,4,0,0,62.01,0.0,0,0.8461538461538461,0,0,0,0.0,0.0,0,positive,True
+3804,3804,"al-ahly achieved the biggest achievement in its football history on this day, december 17, 2006, when it won the bronze in the club world cup, which was held in japan.",30,167,4.6,0,6,0,0,74.87,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,2,positive,True
+18399,18399,"urgent/ a quarrel between the supporters of mortada mansour and the supporters of ahmed suleiman, and the central security intervenes to calm the situation",24,155,5.5,0,2,0,0,30.2,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,True
+21276,21276,"the coaching staff of the arab contractors team, led by shawky gharib, the coach of the team, is facing a strong challenge when it collides today with the vanguards of the army team in the match of the 12th round of the egyptian club league competition..",46,254,4.543478260869565,0,5,0,0,50.17,0.0,0,0.717391304347826,0,0,0,0.0,0.0,1,neutral,True
+8379,8379,"ibrahim returns to al-ahly defense in front of the border guards
+yasser ibrahim, al-ahly defender, participated in the team's collective training this morning at mukhtar al-tach stadium in al-jazira, and yasser ibrahim organized the ball division conducted by the coaching staff led by martin lasarte.",45,301,5.711111111111111,0,9,0,0,25.8,0.0,0,0.8,0,0,0,0.0,0.0,0,neutral,True
+16162,16162,"mohamed sobhi, the goalkeeper of zamalek, entered the accounts of the technical staff of the first egyptian national team, among the 4 guards that the staff settled on in the next camp, which will start after a few days.",39,220,4.666666666666667,0,5,0,0,48.81,0.0,0,0.7692307692307693,0,0,0,0.0,0.0,1,neutral,True
+9380,9380,"this evening, sunday, the draw ceremony for the arab volleyball clubs championship, which will be hosted by egypt from february 18 to march 3, was held.",26,152,4.884615384615385,0,5,0,0,62.01,0.0,0,0.9615384615384616,0,0,0,0.0,0.0,2,neutral,True
+11407,11407,the people on the street have already brought the last of them. this is not a performance worthy of the reputation of egyptian football and the national team,28,157,4.642857142857143,0,1,0,0,74.19,0.0,0,0.7857142857142857,0,0,0,0.0,0.0,0,negative,True
+12613,12613,"many absences impose themselves on the al-ahly team before the smouha match, which is scheduled for 7 pm tomorrow, sunday, at al-ahly and al-salam stadium, in the ninth round of the premier league competition.",34,209,5.176470588235294,0,8,0,0,53.89,0.0,0,0.8823529411764706,0,0,0,0.0,0.0,1,neutral,True
+21539,21539,"al-ismaili ends a crisis for saad al-jaziri and addresses fifa to register his new players
+#ontime_news https://t.co/s4vbgx3fwx",17,127,6.529411764705882,0,9,0,0,37.3,0.0,0,1.0,0,0,0,0.0,0.0,2,neutral,True
+17286,17286,"the first half ended the match between al-ahly and tala'a al-jaish, which is currently being held at al-salam stadium, in the fifth round of the premier league, with tala'a al-jaish advancing with a clean goal.",35,210,5.0285714285714285,0,10,0,0,52.87,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,True
+13628,13628,"a goal from the netherlands, as the book says",9,45,4.111111111111111,0,1,0,0,104.64,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,0,neutral,True
+1172,1172,"pyramids advanced with the first goal against its togolese counterpart askou kara, in the third minute, through fakhreddin ben youssef, in the match that brought the two teams together at kigui stadium.",32,202,5.34375,0,4,0,0,64.38,0.0,0,0.875,0,0,0,0.0,0.0,0,positive,True
+13471,13471,special for ontime stadium: #al-ahly agrees with a playmaker... and a european offer by ahmed yasser rayan,17,106,5.294117647058823,0,6,0,0,62.85,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,0,positive,True
+16654,16654,"a monthly pension for the family of the late player sami saeed, who passed away recently during the match of his team, matrouh and al-sloum, in the third division league.",30,170,4.7,0,5,0,0,57.95,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,0,neutral,True
+17321,17321,"mohamed reda bobo, the future player, won the man-of-the-match award for his team against al-masry in the match, which ended in a 1/1 draw.",24,139,4.833333333333333,0,9,0,0,72.5,0.0,0,0.875,0,0,0,0.0,0.0,2,positive,True
+16035,16035,ismaily lost to pyramids with two goals to one in the seventh round of the local league competition,18,99,4.555555555555555,0,0,0,0,70.13,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,0,neutral,True
+16269,16269,"today, saturday, january 7, 2023, the sports bulletin witnessed many important news, most notably, al-ahly is awaiting koller's position to start negotiations to restore ahmed hamdi, hossam hassan is looking for his third victory with al-masry against al-ittihad of alexandria.",40,277,5.95,0,12,0,0,22.42,0.0,0,0.95,0,0,0,0.0,0.0,2,neutral,True
+14438,14438,"mohamed saad, the general coach of aswan, reveals the details of the conversation that took place between the portuguese ferreira, the coach of zamalek, and ayman al ramadi, the coach of aswan",32,192,5.03125,0,5,0,0,47.46,0.0,0,0.6875,0,0,0,0.0,0.0,0,neutral,True
+7388,7388,"today, sunday 1-15-2023, egyptian sports news witnessed many important events.",10,78,6.9,0,5,0,0,61.33,0.0,0,1.0,0,0,0,0.0,0.0,3,neutral,True
+9939,9939,"may god have mercy on the martyrs of the homeland from the army, the police and the people...
+in heaven, god willing.. long live egypt....",25,138,4.56,0,11,0,0,88.43,3.1,0,0.8,0,0,0,0.0,0.0,0,neutral,True
+2432,2432,ferrera returns to coach zamalek,5,32,5.6,0,0,0,0,66.4,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+290,290,"al-ahly signs a fine on walid azaro
+the coaching staff of the al-ahly club's first football team, led by frenchman patrice carteron, decided to impose a financial penalty against moroccan walid azaro, the team's striker.",35,220,5.314285714285714,0,8,0,0,61.33,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,negative,True
+13107,13107,"today, tuesday 1-24-2023, four matches were held in the fifteenth round of the egyptian premier league, where al-ahly met with al-ahly bank.",22,140,5.409090909090909,0,8,0,0,74.53,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,3,neutral,True
+11865,11865,"zamalek defeated ismaili, with three goals to one, in the meeting that was held between them at cairo stadium, in the tenth round of the egyptian league championship, while aswan achieved victory over al-masry al-port said..",36,224,5.25,0,8,0,0,51.86,0.0,0,0.9166666666666666,0,0,0,0.0,0.0,0,positive,True
+7722,7722,"inacio expressed his wishes for zamalek to succeed in the coming period, in statements published by the official website of the white club in the video, on the sidelines of the contract termination session.",34,206,5.088235294117647,0,3,0,0,36.97,0.0,0,0.7647058823529411,0,0,0,0.0,0.0,0,neutral,True
+1334,1334,"today, sunday, corresponding to 3/19/2023, zamalek club witnessed many important events, foremost of which came, osama nabih, apologizing for not continuing his position in zamalek after bidding farewell to the african championship..",32,233,6.3125,0,10,0,0,30.54,0.0,0,0.9375,0,0,0,0.0,0.0,3,neutral,True
+11483,11483,"queiroz requests a detailed report on ""ahmed hassan kouka"" in anticipation of his inclusion in the national team
+#ontime_news https://t.co/l1bd9fcyd7",20,149,6.5,0,9,0,0,17.34,0.0,1,0.95,0,0,0,0.0,0.0,3,neutral,True
+1091,1091,"the football association announces its decisions in an official statement regarding the events of the arsenal and railways match in the second division, which witnessed unfortunate events.",27,188,6.0,0,2,0,0,18.69,0.0,0,0.8518518518518519,0,0,0,0.0,0.0,0,neutral,True
+14508,14508,"come on, let's have some questions like this, early, early... first, what do you expect from the decision regarding the issue of electricity today, and what is the reaction of al-ahly club? secondly, what will be mahmoud al-khatib's response to the screams of the president of the auckland club... what, khatib, are you coming to do magic in morocco?? a man-to-man player on the pitch?",65,385,4.938461538461539,0,24,0,4,66.74,10.4,0,0.7846153846153846,0,0,0,0.0,0.0,0,neutral,True
+768,768,"does mohamed abdel moneim participate in the summit match? shima saber reveals all the details
+#ontime_news https://t.co/bpbrvilgi6",17,131,6.764705882352941,0,8,0,1,37.47,0.0,0,0.9411764705882352,0,1,0,0.0,0.0,1,neutral,True
+21671,21671,"hussein al-shahat, al-ahly player, scored the second goal for his team against sun downs in the 74th minute.",18,108,5.055555555555555,0,5,0,0,78.59,0.0,0,0.9444444444444444,0,0,0,0.0,0.0,1,neutral,True
+2482,2482,"speaker: the olympic committee has nothing to do with club administrations
+dr. ali abdel-al, speaker of the house of representatives, confirmed that the egyptian olympic committee has no right to interfere in financial matters",34,226,5.676470588235294,0,5,0,0,45.76,0.0,0,0.7941176470588235,0,0,0,0.0,0.0294117647058823,0,neutral,True
+18327,18327,the second half ended with a 1-1 positive tie between al-ahly and al-masry,13,74,4.769230769230769,0,3,0,0,66.74,0.0,0,1.0,0,0,0,0.0,0.0,2,positive,True
+1157,1157,"greek coach takis junias, coach of pyramids club, announced the list for the ismaili match in the premier league.",19,113,5.0,0,3,0,0,77.57,0.0,0,0.8421052631578947,0,0,0,0.0,0.0,0,neutral,True
+15480,15480,"the technical meeting for the al-ahly and cameroonian cotton match, scheduled for six in the evening, the day after tomorrow, saturday, will be held at two o'clock in the afternoon, at the al-ahly club headquarters, at al-ahly al-salam stadium.",39,244,5.282051282051282,0,12,0,0,40.35,0.0,0,0.717948717948718,0,0,0,0.0,0.0,0,neutral,True
+10482,10482,"al-ahly will continue for two days in south africa after the match, then head directly to doha to play the super match against nahdet berkane.",25,142,4.72,0,3,0,0,71.48,0.0,0,0.92,0,0,0,0.0,0.0,0,neutral,True
+11024,11024,"walid suleiman, the playmaker of al-ahly club, celebrates today, thursday, his 38th birthday, as the container of the red castle was born on december 1, 1984 in the bani mazar center in minya governorate.",34,204,5.029411764705882,0,8,0,0,53.89,0.0,0,0.8529411764705882,0,0,0,0.0,0.0,3,neutral,True
+2944,2944,"al-ahly announces the inclusion of mustafa shalabi within hours.. and puts the last frills on contracting with the tigris youth quartet
+#ontime_news https://t.co/iz7xizigih",23,172,6.521739130434782,0,10,0,0,59.8,0.0,0,0.9130434782608696,0,0,0,0.0,0.0,1,neutral,True
+3306,3306,"is vitoria involved in choosing mikali as coach of the olympic team? khaled al-dirandali, vice president of the football association, answers
+#ontime_news https://t.co/lyoyrrzu29",23,178,6.782608695652174,0,11,0,1,51.34,0.0,0,0.9130434782608696,0,0,0,0.0,0.0,1,neutral,True
+9460,9460,"alaa ezzat: it is difficult to establish a football company in egypt because of the regulations and the sports law
+#amr _ and _ alaa _ with _ saif",29,146,4.068965517241379,0,6,0,0,58.96,0.0,0,0.7931034482758621,0,0,0,0.0,0.0,0,neutral,True
+16319,16319,"the first goal for real madrid by pique, who scored it in his own net",15,69,3.6666666666666665,0,1,0,0,98.55,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+8402,8402,"today, wednesday 1/4/2023, egyptian sports witnessed many important news, the most prominent of which is the deprivation of 1232 zamalek fans from attending two matches.. and ferrera and the club being fined financially.",33,220,5.696969696969697,0,8,0,0,54.73,0.0,0,0.8787878787878788,0,0,0,0.0,0.0,4,neutral,True
+1859,1859,"the league is settled for inter, and the match is a normal fire strike, and there are two expulsions as well",21,108,4.190476190476191,0,2,0,0,84.0,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,True
+11430,11430,hossam hassan: i have a point of view on the player who joins the team,15,70,3.733333333333333,0,1,0,0,90.09,0.0,0,0.9333333333333332,0,0,0,0.0,0.0,0,neutral,True
+7466,7466,"ahmed hossam mido sends messages to the national team players: don't foul in front of the 18, hakimi plays it like penalties",22,124,4.681818181818182,0,3,0,0,66.07,0.0,0,0.9545454545454546,0,0,0,0.0,0.0,1,neutral,True
+5170,5170,"mikali explains to his assistants the most common problem that the egyptian olympic team players suffer from
+#ontime_news https://t.co/k0bg9iac5c",19,145,6.684210526315789,0,7,0,0,52.19,0.0,0,0.9473684210526316,0,0,0,0.0,0.0,3,negative,True
+8451,8451,"al-ahly team continues to prepare for the upcoming zamalek match, scheduled for 8:30 pm the day after tomorrow, saturday, at cairo international stadium, as part of the premier league championship competitions.",31,210,5.806451612903226,0,7,0,0,23.09,0.0,0,0.9032258064516128,0,0,0,0.0,0.0,2,neutral,True
+9299,9299,president of zamalek: stopping the players' dues until they win a championship ... and canceling the position of director of football,21,133,5.380952380952381,0,5,0,0,44.41,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,True
+8444,8444,"a source close to fahd jumaa, the al-ahly striker and loaned to smouha since the beginning of last season, revealed the player's intention to terminate his contract with the alexandrian club, due to his marginalization by tariq al-ashry, the coach, and his permanent exclusion from his technical accounts.",48,305,5.375,0,9,0,0,31.22,0.0,0,0.7708333333333334,0,0,0,0.0,0.0,0,neutral,True
+17155,17155,officials of ghazl el mahalla club called on the fans of the team who wish to attend the next enppi match to be present tomorrow to receive the special ticket during an official statement issued by the club to provide 300 tickets.,42,230,4.5,0,1,0,0,45.77,0.0,0,0.7857142857142857,0,0,0,0.0238095238095238,0.0,1,neutral,True
+16529,16529,"pyramids lead the group with 8 points, the royal army comes in second place with 7 points, and future comes in third place with 5 points.",26,137,4.307692307692308,0,3,0,0,78.93,0.0,0,0.7307692307692307,0,0,0,0.0,0.0,3,neutral,True
+19560,19560,"al-ahly team topped the egyptian premier league ranking table, after holding two matches today, wednesday 2/22/2023, within the 19th round of the competition, where the arab contractors hosted its counterpart future, while al-masry al-port said met with pyramids.",38,263,5.947368421052632,0,11,0,0,32.91,0.0,0,0.9210526315789472,0,0,0,0.0,0.0,4,neutral,True
+20125,20125,"the united media services company launched a song to support the egyptian handball team, which is participating in the fifa world cup, which will be held in poland and sweden and will end on january 29.",36,202,4.638888888888889,0,3,0,0,51.86,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,1,neutral,True
+20104,20104,"the greek coach, baba vassiliou, agreed to the request of the madagascarian paulin foafi, the team's player, to terminate his contract with the team in early january.",27,166,5.185185185185185,0,6,0,0,44.07,0.0,0,0.8148148148148148,0,0,0,0.0,0.0,0,positive,True
+7120,7120,"a dangerous shot from quetta, but it passed near the left post of mohamed al-ghandour's goal...
+#with _ the _ cup _ back",23,120,4.260869565217392,0,10,0,0,85.18,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,0,neutral,True
+9098,9098,"tunisian hamdi al-naqaz, the right defender of the ismaili club's first football team, will be absent from his team's match against al-ahly bank in the general league competitions, due to the accumulation of yellow cards.",35,221,5.342857142857143,0,8,0,0,44.41,0.0,0,0.8857142857142857,0,0,0,0.0,0.0,0,neutral,True
+19959,19959,"happy new year and happiness
+medhat shalaby",7,43,5.285714285714286,0,0,0,0,30.53,0.0,0,1.0,0,0,0,0.0,0.0,0,positive,True
+7340,7340,"the goalkeeper of the aswan team said that the team's level is improving game after game, indicating that ayman ramadi, the team's coach, is playing to win and achieve positive results.",31,185,5.0,0,6,0,0,48.47,0.0,0,0.8064516129032258,0,0,0,0.0,0.0,0,positive,True
+525,525,it's all a com and the heelfoot is a com,10,40,3.1,0,1,0,0,112.09,0.0,0,0.8,0,1,0,0.0,0.0,0,neutral,True
+18513,18513,gharib: recklessness is behind the tie with the tigris... and heavy penalties for the players,15,93,5.266666666666667,0,4,0,0,89.24,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,0,negative,True
+16743,16743,d.5 and the negative tie continues between al-ahly and moroccan wydad,11,69,5.363636363636363,0,2,0,0,60.31,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,1,neutral,True
+10376,10376,"egyptian girls win the gold of the arab gymnastics championship in algeria
+#ontime_news https://t.co/kstntn8jq3",14,111,7.0,0,7,0,0,31.89,0.0,0,0.9285714285714286,0,0,0,0.0,0.0,2,positive,True
+10680,10680,"today, friday 1/13/2023, three matches were held within the 13th round of the egyptian premier league, where ismaili hosted his counterpart, the arab contractors, aswan met with haras el hodoud, and pharco faced ceramica.",34,221,5.529411764705882,0,9,0,0,45.43,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,4,neutral,True
+18228,18228,"the draw for the north african u-20 girls championship, which was held today, wednesday, via ""zoom"", resulted in egypt's matches in the tournament that will be held in tunisia from march 13 to 18.",34,196,4.794117647058823,0,9,0,0,62.35,0.0,1,0.8529411764705882,0,0,0,0.0,0.0,3,neutral,True
+9159,9159,winning the australian championship,4,35,8.0,0,0,0,0,33.58,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+17175,17175,"salah pasha leaves the youth team camp after confirming his absence from the african nations
+#ontime_news https://t.co/pehx7ua5ff",17,129,6.647058823529412,0,7,0,0,62.68,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,2,neutral,True
+15988,15988,the technical staff of zamalek confirmed that mohamed awad was ready to participate in the upcoming ismaili match.,18,114,5.388888888888889,0,1,0,0,53.21,0.0,0,0.9444444444444444,0,0,0,0.0,0.0555555555555555,0,neutral,True
+18431,18431,"osama nabih: we seek to achieve justice among the players, and flexibility is required between them
+#president _ of _ zamalek _ with _ saif _ zaher",27,147,4.481481481481482,0,8,0,0,60.99,0.0,0,0.8518518518518519,0,0,0,0.0,0.0,0,neutral,True
+15633,15633,"today, sunday 3/5/2023, al-ahly club witnessed many important sports news, most notably: al-ahly continued its training without rest after defeating cameroonian cotton..",22,169,6.727272727272728,0,10,0,0,40.69,0.0,0,0.9545454545454546,0,0,0,0.0,0.0,3,neutral,True
+11976,11976,"the star wael gomaa, the rock of the national team's defense and the former al-ahly club, was keen to congratulate his team after the red team qualified for the semi-finals after defeating the seattle sounders.",35,210,5.0285714285714285,0,6,0,0,44.41,0.0,0,0.7714285714285715,0,0,0,0.0,0.0,0,positive,True
+11109,11109,"the delegation of the first football team of zamalek club will travel to algeria the day after tomorrow, tuesday, in preparation for the belouizdad youth match scheduled for next friday.",30,186,5.233333333333333,0,3,0,0,41.03,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,True
+2938,2938,lunin goalkeeper real madrid senior guard project,7,49,6.142857142857143,0,0,0,0,64.37,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+20920,20920,"well, someone tells me that al-ahly announced that there is a meeting today between musimani and mixoni to give him confidence!!!??? why not with percy tao?? or tahir or any other player?? there is news that you can't even believe",40,230,4.775,0,13,3,7,86.71,6.0,0,0.875,0,0,0,0.025,0.0,0,positive,True
+718,718,"the first half of the al-ahly and zamalek match at cairo stadium, in the 14th round of the premier league, ended in a goalless draw.",25,132,4.32,0,4,0,0,79.94,0.0,0,0.8,0,0,0,0.0,0.0,1,neutral,True
+1968,1968,"the return of ahmed hegazy to the egyptian national team, praise be to god, peace be upon him",18,93,4.222222222222222,0,2,0,0,78.59,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,True
+21328,21328,"the tunisian hamdi al-naqaz, the right back of the ismaili club, was confirmed to be absent from his team's next match against pyramids.",23,136,4.956521739130435,0,5,0,0,73.51,0.0,0,0.9130434782608696,0,0,0,0.0,0.0434782608695652,0,neutral,True
+577,577,"ambassador hani salah, egypt's ambassador to sudan, was keen to attend the closing training session of al-ahly, which was held this afternoon at the blue jewel stadium, which will host tomorrow's match.",32,202,5.34375,0,8,0,0,47.46,0.0,0,0.84375,0,0,0,0.0,0.0,0,neutral,True
+4084,4084,"amer hussein, a member of the football association board of the egyptian beach soccer team, celebrated the team's qualification to the world cup for the first time, which will be held in the uae during the coming period.",38,220,4.815789473684211,0,5,0,0,41.37,0.0,0,0.8157894736842105,0,0,0,0.0,0.0,0,neutral,True
+21770,21770,"a shock in the national team due to mohamed salah's injury...and waiting for the medical report
+a state of discontent dominated the mission of the first egyptian national football team, led by argentine hector cuper, who is currently in italy, after mohamed salah was injured in the match between liverpool and real madrid.",53,323,5.113207547169812,0,8,0,0,44.58,0.0,0,0.8113207547169812,0,0,0,0.0,0.0,0,negative,True
+3880,3880,reda shehata: al-ahly has players at the highest level in all lines,12,67,4.666666666666667,0,2,0,0,67.76,0.0,0,1.0,0,1,0,0.0,0.0,0,neutral,True
+14106,14106,"ahmed nagy explains his artistic vision in egypt's match against cote d'ivoire in the african nations, and the brilliance of mohamed el shennawy
+#ontime_news https://t.co/yqsbwuiluu",25,181,6.28,0,10,0,0,54.56,0.0,0,0.92,0,0,0,0.0,0.0,0,neutral,True
+20867,20867,your expectations for formation,4,31,7.0,0,0,0,0,8.2,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+14887,14887,"dr. gamal mohamed ali, director of the coaches department of the egyptian football association, left for tunisia today, sunday, december 25, to attend the technical meeting of the technical directors of the north african federations.",35,233,5.685714285714286,0,7,0,0,19.03,0.0,0,0.7714285714285715,0,0,0,0.0,0.0,1,neutral,True
+14927,14927,"the technical staff of zamalek settled on gradually pushing mahmoud hamdi al-wensh, the team's defender, into the matches after his return from the cruciate ligament injury that he suffered at the beginning of the season.",35,221,5.342857142857143,0,5,0,0,27.49,0.0,0,0.8285714285714286,0,0,0,0.0,0.0,0,neutral,True
+1509,1509,"today, sunday, the ministry of youth and sports announces the formation of the committee that will manage the ismaili club until the date of the club's general assembly to elect a new board of directors.",35,203,4.828571428571428,0,4,0,0,44.41,0.0,0,0.7714285714285715,0,0,0,0.0,0.0,0,neutral,True
+8865,8865,"the eyes of the fans of the round witch in egypt are directed towards the kegui de lome stadium in the togolese capital, lome, at six in the evening today.",30,155,4.2,0,3,0,0,66.41,0.0,0,0.7333333333333333,0,0,0,0.0,0.0,0,neutral,True
+5174,5174,"al-ahly retreated and zamalek advanced in the fifa classification
+#ontime_news https://t.co/vhelwc1c2u",11,102,8.363636363636363,0,8,0,0,1.09,0.0,0,1.0,0,0,0,0.0,0.0,2,positive,True
+9360,9360,tunisia national team demands a re-match,6,40,5.833333333333333,0,1,0,0,56.93,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+1024,1024,jihad greisha: al-ahly deserves to get two penalties in the match,11,65,5.0,0,2,0,0,85.69,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+1476,1476,"congratulations to gianna farouk, egypt's daughter, for winning the bronze medal in karate",13,90,6.0,0,3,0,0,58.28,0.0,0,1.0,0,0,0,0.0,0.0,0,positive,True
+8017,8017,"zamalek congratulates mohamed abdel shafi on the victory of his team, al-ahly jeddah, in the saudi league",17,105,5.235294117647059,0,3,0,0,54.22,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,0,positive,True
+652,652,"the algerian abdel rahim daghmoum, the midfielder for the first football team in the egyptian club, is undergoing an intensive rehabilitation program for about two weeks.",26,170,5.576923076923077,0,3,0,0,28.17,0.0,0,0.8461538461538461,0,0,0,0.0,0.0,0,neutral,True
+3671,3671,"in your opinion, does shawky gharib start the argentina match with the same formation as the spain match? and if there is a change, it will be in any center?",30,157,4.266666666666667,0,4,0,2,90.09,0.0,0,0.9,0,0,0,0.0,0.0,0,neutral,True
+19602,19602,"god willing, good",3,17,5.0,0,1,0,0,93.81,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+12004,12004,"the pharco team, led by tariq el-ashry, concludes its training today, friday, in preparation for the al-ahly bank match, which is scheduled for five o'clock tomorrow evening, saturday, at burj al-arab stadium in alexandria.",34,223,5.588235294117647,0,12,0,0,53.89,0.0,0,0.9117647058823528,0,0,0,0.0,0.0,0,neutral,True
+11103,11103,"the egyptian club is preparing to face al-ahly at 7:00 pm today, thursday, in the meeting that brings together the two teams at burj al-arab stadium in alexandria, as part of the 13th round of the egyptian club league competition.",40,230,4.775,0,7,0,0,47.8,0.0,0,0.775,0,0,0,0.0,0.0,3,neutral,True
+16616,16616,"the draw for the egypt youth cup, ""born in 2003,"" for the 2022/2023 season was held today, wednesday, at the headquarters of the egyptian football association.",26,159,5.153846153846154,0,8,0,0,62.01,0.0,1,0.8076923076923077,0,0,0,0.0,0.0,3,neutral,True
+904,904,reda shehata: muhammad fadl was the first to recommend me to work as an artistic director,16,89,4.625,0,1,0,0,55.24,0.0,0,0.9375,0,0,0,0.0,0.0,0,neutral,True
+17419,17419,"the first women's basketball team of al-ahly club defeated al-jazira team, 91-65, in the match that brought the two teams together this evening, as part of the league championship competitions.",30,193,5.466666666666667,0,8,0,0,49.49,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,2,neutral,True
+2439,2439,"egyptian sports news today, saturday 12/31/2022, as the arena witnessed many important news, including al-ahly defeating zamalek in the second stage in the volleyball league..",25,175,6.04,0,8,0,0,46.1,0.0,0,0.88,0,0,0,0.0,0.0,3,neutral,True
+9103,9103,"today, saturday, the al-ahly coaching staff, led by swiss marcel koehler, decides the fate of the duo, hussein al-shahat and ahmed nabil koka, the al-ahly duo, from traveling to morocco.",30,186,5.233333333333333,0,11,0,0,49.49,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,True
+21590,21590,"today, saturday 2/11/2023, egyptian sports witnessed many important sporting events, on top of which was al-ahly club's loss of the world cup bronze to brazilian flamengo.",26,171,5.615384615384615,0,8,0,0,62.01,0.0,0,0.9615384615384616,0,0,0,0.0,0.0,3,neutral,True
+9471,9471,"the houston championship will be held in the us state of texas from january 11 to 15, with a prize money of $110,000.",23,117,4.130434782608695,0,4,0,0,73.51,0.0,0,0.9130434782608696,0,0,0,0.0,0.0,4,neutral,True
+5456,5456,"officials of the taekwondo federation have set january 31 as the travel date for the team's delegation, which is scheduled to participate in the arab and fujairah championships in the uae, which will be held in the first week of next february.",42,243,4.809523809523809,0,4,0,0,37.31,0.0,0,0.7857142857142857,0,0,0,0.0,0.0,1,neutral,True
+2899,2899,"here, gouda, a player in the table tennis team and al-ahly club, bid farewell to the tunisian international junior and junior women's championship in table tennis.",26,163,5.307692307692308,0,6,0,0,45.09,0.0,0,0.8076923076923077,0,0,0,0.0,0.0,0,neutral,True
+8370,8370,"4 candidates for the two seats of the football association on the first day: majdi al-mutnawi, ahmed jabr, asim fahim, safia abdel-dayem.",22,137,5.2727272727272725,0,7,0,0,49.15,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,1,neutral,True
+7143,7143,"today, thursday, the activities of the al-ahly open squash championship, which started last sunday, will be concluded on the courts of the club branch in sheikh zayed.",27,167,5.222222222222222,0,6,0,0,60.99,0.0,0,0.8518518518518519,0,0,0,0.0,0.0,0,neutral,True
+18341,18341,"happy new year on the occasion of eid al-fitr.. may god bring it back to us all with goodness, right and blessings",22,114,4.227272727272728,0,4,0,0,85.69,0.0,0,1.0,0,1,0,0.0,0.0,0,neutral,True
+12275,12275,"the players performed light recovery and training sessions in the ""gym"" at the delegation's residence in tangiers, morocco, in preparation for the second round of the club world cup.",29,182,5.310344827586207,0,6,0,0,42.04,0.0,1,0.7931034482758621,0,0,0,0.0,0.0,0,neutral,True
+1261,1261,"al-ahly team will face its counterpart, ghazl el-mahalla, today, wednesday, at ghazl el-mahalla stadium, in the sixth round of the premier league competition.",23,158,5.913043478260869,0,9,0,0,39.67,0.0,0,0.9130434782608696,0,0,0,0.0,0.0,0,neutral,True
+15327,15327,"the pyramids team will face its counterpart, el mokawloon, at 3:15 pm on wednesday, at el mokawloon stadium in jabal al akhdar.",22,127,4.818181818181818,0,5,0,0,74.53,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,2,neutral,True
+15525,15525,"vittoria was present in the journalists' seats, and he was keen to follow up and support the national youth team, as he followed a number of players in preparation for their inclusion in the first team.",36,202,4.638888888888889,0,4,0,0,51.86,0.0,0,0.8055555555555556,0,0,0,0.0,0.0,0,neutral,True
+21796,21796,"swiss marcel kohler, coach of al-ahly club, is close to being the fifth coach in the history of the red genie in the club world cup.",26,132,4.115384615384615,0,4,0,0,78.93,0.0,0,0.7692307692307693,0,0,0,0.0,0.0,0,neutral,True
+14424,14424,"zamalek agrees with pyramids to include jaber and dunga
+#ontime_news https://t.co/ijdh4bjjka",11,92,7.454545454545454,0,7,0,0,34.93,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,True
+11306,11306,"khaled abdel-fattah, a smouha player, loaned him to al-ahly until the end of the season, with the intention of selling",20,118,4.95,0,5,0,0,68.1,0.0,0,0.85,0,0,0,0.0,0.0,0,neutral,True
+12186,12186,"muhammad al-atribi, vice president of zamalek club: may god make it easy, and we will renew ashraf bin sharqi",19,109,4.789473684210527,0,4,0,0,69.11,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+19264,19264,"75 minutes have passed since the ghazl el mahalla and zamalek match, which currently brings them together at el mahalla stadium, in the matches of the 15th round of the premier league competition, and zamalek succeeded in reducing the difference to the score 2/1.",44,263,5.0,0,5,0,0,26.82,0.0,0,0.75,0,0,0,0.0,0.0,4,positive,True
+8766,8766,"the star, mohamed sherif, do not be sad, rejoice today with your colleagues by qualifying for the final, and god willing, you will have a word in the final. the important thing is that you are an important player in a great team that rose to the final match",49,257,4.26530612244898,0,6,0,0,71.99,0.0,0,0.8163265306122449,0,0,0,0.0,0.0,0,neutral,True
+13908,13908,"table tennis at al-ahly women's club defeated its counterpart, al-ahly saida, in the arab championship competitions held in cairo stadium.",20,138,5.95,0,6,0,0,34.26,0.0,0,0.9,0,0,0,0.0,0.0,0,neutral,True
+21396,21396,"the board of directors of al-ittihad club of alexandria has officially agreed to loan karim el-deeb, the player of the first football team, to the ismaili club until the end of the current season.",34,196,4.794117647058823,0,5,0,0,53.89,0.0,0,0.6764705882352942,0,0,0,0.0,0.0,0,positive,True
+6740,6740,"fathallah zidane compares egypt and cameroon's organization of the african nations championship and comments: ""egypt is able to organize the world cup""
+#ontime_news https://t.co/oj03w8vytp",24,188,6.875,0,11,0,0,38.66,0.0,1,0.9166666666666666,0,0,0,0.0,0.0,2,neutral,True
+1206,1206,"hazem imam and ayman younes, a special zamalek case",9,51,4.777777777777778,0,1,0,0,87.72,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,True
+18262,18262,"the artistic vision of captain ahmed nagy about the al-ahly and moroccan raja match
+#ontime_news https://t.co/l0bz3dqduj",16,120,6.5625,0,8,0,0,55.24,0.0,0,0.9375,0,0,0,0.0,0.0,2,neutral,True
+21139,21139,"the egyptian duo, nour el-sherbiny, a sporting player, and hania el-hamami, a player from wadi degla, qualified for the final match of the hong kong open squash championship, which will be held from november 28 to december 4.",38,225,4.947368421052632,0,9,0,0,49.83,0.0,0,0.8947368421052632,0,0,0,0.0,0.0,2,neutral,True
+9450,9450,smouha misses the opportunity to beat zamalek and settles for a positive draw with a goal for each team,19,103,4.473684210526316,0,0,0,0,60.65,0.0,0,0.8947368421052632,0,0,0,0.0,0.0,0,positive,True
+1782,1782,the referees committee of the egyptian football association entrusted the management of the al-ahly and vanguards match in the fifth round of the egyptian premier league championship to referee mohamed adel.,31,207,5.709677419354839,0,2,0,0,31.55,0.0,0,0.7419354838709677,0,0,0,0.0,0.0,0,neutral,True
+1601,1601,"a state of sadness prevailed among the players and officials of the boxing federation, after the death of 17-year-old boxer ramez hossam in intensive care at tanta university hospital, provided that his funeral and burial took place in his hometown in cairo governorate.",43,270,5.3023255813953485,0,5,0,0,19.37,0.0,0,0.813953488372093,0,0,0,0.0,0.0,1,neutral,True
+359,359,"remember my words, mosimane will work early and will not delay the changes",13,74,4.769230769230769,0,1,0,0,75.2,0.0,0,0.9230769230769232,0,0,0,0.0,0.0,0,neutral,True
+5460,5460,"ayman taher, coach of the goalkeepers of the first football team at zamalek club, set a special physical program for mohamed awwad, the white goalkeeper, during training today, tuesday.",29,185,5.413793103448276,0,6,0,0,42.04,0.0,0,0.896551724137931,0,0,0,0.0,0.0,0,neutral,True
+6591,6591,"the president of al-taraji club, in the reception of the al-ahly club delegation, headed by captain mahmoud al-khatib",18,117,5.555555555555555,0,5,0,0,44.75,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,True
+445,445,"al-ahly is at the top of the league clubs with 31 points, after playing 13 matches, winning nine matches, compared to four draws, and did not lose, and its players scored 22 goals and conceded 5 goals.",37,201,4.45945945945946,0,7,0,0,67.76,0.0,0,0.8918918918918919,0,0,0,0.0,0.0,4,neutral,True
+6082,6082,"an official source in the football association, whose name is unknown, states that if al-shennawy went to the olympics, he would not play with al-ahly in the african final if he qualified for the final!!!!! remember, this is a responsible statement?????",41,253,5.195121951219512,0,16,5,5,59.13,0.0,0,0.8292682926829268,0,0,0,0.0,0.0,0,neutral,True
+9134,9134,"refresher training for the egyptian national team, hours before tunisia's arab cup match
+#ontime_news https://t.co/lfbw4cqtxc",15,125,7.4,0,9,0,0,30.87,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,True
+15268,15268,today.. the conclusion of the referee lecturers course with the al-hadaf project,12,80,5.75,0,3,0,0,50.84,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,True
+16355,16355,"zamalek renews its negotiations to include muhannad lashin.. and the team's position on the marawan attia deal
+#ontime_news https://t.co/e10xzysri7",19,147,6.789473684210527,0,10,0,0,44.91,0.0,0,0.9473684210526316,0,0,0,0.0,0.0,2,neutral,True
+5360,5360,"everyone in port said loved him and was sincere in his work.. interviews from the funeral of journalist mohamed ghandar
+#ontime_news https://t.co/ydt8gvvoiw",22,156,6.136363636363637,0,9,0,0,51.85,0.0,0,0.9545454545454546,0,1,0,0.0,0.0,1,neutral,True
+447,447,"al-ahly will meet its spanish counterpart, real madrid, in the semi-finals of the club world cup, which is scheduled for nine in the evening, tomorrow, wednesday, cairo time",28,173,5.214285714285714,0,8,0,0,59.98,0.0,0,0.8928571428571429,0,0,0,0.0,0.0,0,neutral,True
+5894,5894,"hisham osama, the mansoura player, reveals the scenes of scoring a goal and celebrating by kissing his father's hand
 #ontimenews
-# we are all behind the egyptian national team https://t.co/d1gbw4d0x2",26,180,5.961538461538462,0,7,0,0,29.18,0.0,0,0.9230769230769232,0,1,0,0.0,0.0,4,neutral,True
-6340,6340,"the portuguese coach josevaldo ferreira, coach of zamalek, made the first substitutions, with the exit of nabil emad dunga and mohamed abdel-ghani, and pushed mahmoud hamdy al-wensh and ahmed belhaj, with the start of the second half.",37,234,5.351351351351352,0,8,0,0,42.38,0.0,0,0.7297297297297297,0,0,0,0.0,0.0,0,neutral,True
-21816,21816,"the football association issues a statement to appeal to clubs to cooperate with the youth team led by mahmoud jaber, before the african nations under-20 championship, which will be held in egypt from february 19 to march 12 next.",39,230,4.923076923076923,0,4,0,0,40.35,0.0,0,0.8717948717948718,0,0,0,0.0,0.0,3,neutral,True
-3507,3507,"magdy abdel-ghany, a member of the football association, expressed his great happiness at al-ahly club's victory by three goals over the tunisian esperance club in the first leg of the caf champions league final, and its closeness to winning the title.",41,252,5.170731707317073,0,7,0,0,38.32,0.0,0,0.8780487804878049,0,0,0,0.0,0.0,0,positive,True
-14669,14669,"today, friday, the first women's handball team of al-ahly club will meet its counterpart, zamalek, in the league championship competitions.",20,139,6.0,0,7,0,0,51.18,0.0,0,0.95,0,0,0,0.0,0.0,0,neutral,True
-11188,11188,"the honor was attended by amr moselhy, vice president of the egyptian basketball federation and the first basketball team of the alexandrian union club",24,151,5.333333333333333,0,1,0,0,38.66,0.0,0,0.7916666666666666,0,0,0,0.0,0.0,0,neutral,True
-11621,11621,"survival of god in the death of the mother of captain ahmed hassan, may god dwell her in spacious gardens",20,105,4.3,0,1,0,0,76.56,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,True
-16945,16945,"the vanguards of the army team, led by mohamed youssef, will conclude its training today, sunday, in preparation for the ceramica match, which is scheduled for five in the evening tomorrow, monday, at cairo international stadium.",36,229,5.388888888888889,0,8,0,0,34.94,0.0,0,0.8611111111111112,0,0,0,0.0,0.0,0,neutral,True
-5547,5547,"al-ahly is preparing to face spanish real madrid in the semi-finals of the club world cup in morocco, which is set for nine in the evening, wednesday, at moulay abdullah stadium in morocco.",33,189,4.757575757575758,0,6,0,0,46.44,0.0,0,0.8181818181818182,0,0,0,0.0,0.0,0,neutral,True
-36708,36708," _ youth
-haha, al-huwaish and al-shamrani, a video from your grandfather, they think it was infiltration",16,104,5.5,0,6,0,0,55.24,0.0,0,1.0,0,0,0,0.0625,0.0,0,neutral,False
-28325,28325,-hilal_and al-ahly_asia_batal,2,29,14.0,0,5,0,0,-6.7,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-23678,23678,"i heard that al-ahly fans chanted, ""today, i dream of you, i dream of you.. the day of the super cup is waiting for you.. it is very nice, i hope, but after that, you sleepers will not be left under the dirt
- _ zamalek",45,218,3.844444444444445,0,13,0,0,90.09,3.1,0,0.7777777777777778,0,0,0,0.0,0.0,0,neutral,False
-30978,30978,"the latest joke, musallah, needs to be famous at the back of the football association, oh, stand up, stand up, stand up, haha, they laugh while they cry",28,152,4.464285714285714,0,8,0,0,68.44,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,False
-34457,34457,haha defense,2,12,5.5,0,0,0,0,35.61,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-37706,37706,"the wish was to meet with you again
-
-unfortunately, you chose to escape confrontation
- _ real _ madrid",18,102,4.611111111111111,0,3,0,0,70.13,0.0,0,0.8333333333333334,0,0,0,0.0555555555555555,0.0,0,neutral,False
-26219,26219," _ al-ahly _ audience _ with _ you
-what if he puts it wrong.... it will hurt you so much",20,88,3.4,0,9,0,0,103.63,0.0,0,0.75,0,0,0,0.0,0.0,0,negative,False
-34651,34651,"a method of intimidation and intimidation of those after him
-oh, you criticize the coach
-otherwise, wait for the trial space
-the years are progressing
-their method has not and will not change in terrorizing those who disagree with them
-a flock led by a media person who implements his directives and ideas",53,305,4.773584905660377,0,2,0,0,26.14,0.0,0,0.7735849056603774,0,0,0,0.0,0.0,0,neutral,False
-40485,40485,"my brother, ramsdale, this is a very strange guard.
- i'm with this guy, john gharib, this ramsdale",17,98,4.764705882352941,0,6,0,0,96.69,0.0,0,0.8823529411764706,0,0,0,0.0,0.0,0,neutral,False
-39498,39498,"the first time i landed on the match, we scored a goal. haha, how good your luck is",18,83,3.6666666666666665,0,3,0,0,104.64,0.0,0,0.9444444444444444,0,0,0,0.0,0.0,0,positive,False
-35843,35843,"
-saad nateq al-iraqi contracted with abha within days, with a contract that does not exceed $400,000 per season
-haha, when al-ahly wanted to contract with the iraqi spokesman during the era of his believer, brokers and management entered and raised the player's contract to millions, and both wanted their share of the pie
-a difference between failed administrations, brokers, and professional and honest administrations",64,420,5.5625,0,11,0,0,6.52,0.0,0,0.765625,0,0,0,0.0,0.0,2,positive,False
-27582,27582,"the emmys and fifa awards show you how much reputation makes a solid difference
-i mean, the last season in got is all cursed and taken as the best series, haha
-real madrid, who, if he was the zamalek player, would have lost, they would have chosen the worst one in defense as the best left back in the world
-and van dyck took the best player in europe, but not in the world",74,373,4.054054054054054,0,7,0,0,21.75,0.0,0,0.7297297297297297,0,1,0,0.0,0.0,0,neutral,False
-30696,30696,"""saudi al-ahly"" yazin, his name and his voice. ",8,47,4.875,0,5,0,0,105.66,0.0,1,0.875,0,0,0,0.0,0.0,0,neutral,False
-30010,30010," _ conquest _ of _ cooperation
-haha, but i remembered someone who calls himself the king of expectations saying that al-fateh will have a say and that he is the second candidate for the league title",36,198,4.5,0,5,0,0,43.4,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,False
-29360,29360,"congratulations, 3 very excellent points.. and a more than excellent start for mr. santo
-the coach who... starts to win will be more confident... and will improve the level of the team...
-leave those who say a defensive coach, we saw how many goals were lost i mean, teams will suffer from the union, especially the offensive ones
-promise  marsool park
- _ union",63,361,4.714285714285714,0,17,0,0,77.74,9.3,0,0.8412698412698413,0,0,0,0.0,0.0,1,positive,False
-25442,25442,"come back, o american
-we are al-ahly
-not anyone else",10,52,4.3,0,2,0,0,86.71,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-38922,38922,"haha, the (arab) analyst (stupid) said that football is tired of this. he can't read that the reserve team can remove the cup fairly, so that's why he always waits from the first round or before the first, if any. # england_belgium",42,231,4.523809523809524,0,13,0,0,76.05,0.0,0,0.8571428571428571,0,1,0,0.0,0.0,0,neutral,False
-30706,30706,"the crowd's voice is great, i swear to god, if the al-ahly player comes after that, he will be terrified.
-",20,106,4.3,0,6,0,0,85.02,0.0,0,0.95,0,0,0,0.0,0.0,0,neutral,False
-33663,33663,some of our team's fans.. in every loss and tie they throw arbitration and that there are conspiracies against our team.. is it reasonable and this saying leaves room for the administration to short not move well because the fans are already convinced so if the league goes this is our excuse and if we win it we are the strong.. haha,62,334,4.403225806451613,0,7,0,0,75.84,9.7,0,0.7580645161290323,0,0,0,0.0,0.0,0,negative,False
-24634,24634,"the referee distributes zero cards to al-nasr players. haha, you don't need a yellow dog",15,88,4.933333333333334,0,4,0,0,63.86,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-24865,24865,"al-ahly brings the best available in the local market, and i also don't know how to finish the best available . because he is not very available, i mean because the player is available, his club is not available, he is satisfied, and his children are a test, and may god give us patience and strengthen us against them",59,318,4.406779661016949,0,9,0,0,67.42,0.0,0,0.6779661016949152,0,0,0,0.0,0.0,0,neutral,False
-30355,30355,"he laughed at me saying that if we had the presence of al wasl fans, they would achieve the league. they have a lot of influence, even if they pass madinat zayed stadium, they will not achieve the el nido cup",41,208,4.097560975609756,0,4,0,0,84.51,0.0,0,0.8048780487804879,0,0,0,0.0,0.0,0,neutral,False
-31145,31145,"who do you encourage?
-= barcelona
-do you know who is not messi haha?
-do you really understand football?
-stay with the potatoes
-what time is the match?
-in the last match, real madrid entered john maine, the player in the stadium?
-= i just love barcelona and support it lol",51,271,4.333333333333333,0,9,0,5,88.53,7.8,0,0.7450980392156863,0,0,0,0.0,0.0,0,neutral,False
-32310,32310,"the match between zamalek and al-ahly has no expectations
-zamalek is at a bad level, and grandpa plays the way you win, play with him
-al-ahly has a bad level, and aswan won 1/0 with a penalty kick goal and street defense behind
-the shape of the super will have surprises, but from god, whoever entered the internet in egypt, i see people who deserve to be bullied.. but i stop, a little bit of white",76,399,4.2631578947368425,0,12,0,0,58.29,0.0,0,0.75,0,0,0,0.0,0.0,2,neutral,False
-31720,31720,"the turkish lira is in crisis against the dollar, and erdogan believes that turkey needs to buy the russian s-400 defense system...
-not by bread alone, man lives now, he needs the s400 too, haha",35,194,4.571428571428571,0,8,0,0,79.09,0.0,0,0.8857142857142857,0,0,0,0.0,0.0,2,neutral,False
-31724,31724,"haha, may god take you away, saeed, what is that..
-it's not enough for you to get goals for opponents...
- _ persepolis",22,118,4.363636363636363,0,10,0,0,94.15,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,0,neutral,False
-26740,26740,"next time, seriously, we won't attribute it to anyone
-",9,54,5.0,0,3,0,0,62.34,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-32736,32736,the referee brought him our money and cheated against us .,11,58,4.363636363636363,0,1,0,0,78.25,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-23213,23213,"i entered a group
-cataloni
-i found a publisher
--
-who scored barca's goal?
-and who scored for liver?
--
-you stuck me
-lever salah and chamberlain and manet
-and gaytooo
-the right of failure da jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
--
-believe me, you blocked me
-am i wrong?? :)",47,302,5.446808510638298,0,11,0,4,82.34,7.8,0,0.7446808510638298,0,0,0,0.0212765957446808,0.0212765957446808,0,neutral,False
-24630,24630,"may god destroy you and burn your blood, as you burned the blood of the zamalek fans
-really good spinach hahahaha
-honor us, when you come to spend from zamalek al-tamween club, haha
-as long as you are a laughing stock to the world",44,230,4.25,0,4,0,0,52.2,0.0,0,0.7954545454545454,0,0,0,0.0,0.0,0,neutral,False
-40922,40922,"we see that you are our dream, you are a hero, and they do not want it to be a weighting strike -hilal_zamalek",23,110,3.8260869565217392,0,4,0,0,90.43,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,0,neutral,False
-28916,28916,"zamalek new song
-pull and run pull and run tighter and loosen a thousand and drink play and lose",19,96,4.105263157894737,0,0,0,0,94.49,0.0,0,0.6842105263157895,0,0,0,0.0,0.0,0,neutral,False
-35460,35460,"the referee did not like to change his furniture, what should he do?
-he answers an assistant referee haha",19,105,4.578947368421052,0,2,0,1,70.29,0.0,0,0.8947368421052632,0,1,0,0.0,0.0,0,neutral,False
-40747,40747,"al-ahly is the fourth in the world, not the sixth in the league
-hero of tariqah, bajh, i don't miss you, varco's boy",23,116,4.086956521739131,0,7,0,0,90.43,0.0,0,0.8260869565217391,0,0,0,0.0,0.0,0,neutral,False
-41735,41735,"haha, the referee is mentally ill",6,33,4.666666666666667,0,1,0,0,48.47,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-31809,31809,"mudhar club, saudi , requests to play with  in the  after their defeat by -ahly of egypt in the , considering  they are the  in egypt
- _ we _ follow _ each other
- _ allam _ servants _ of _ zamalek
--ahly _ is _ not _ for _ sale
- _ al-sabouba _ flags",54,248,3.4814814814814814,0,19,0,0,44.08,0.0,0,0.6296296296296297,0,0,0,0.0,0.0,0,neutral,False
-34922,34922,"every player in al-ahly, his brain opens, you will find a heart on messi",14,72,4.214285714285714,0,3,0,0,91.11,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-28464,28464,"and hossam al-fajry does not play as a player, and prefers to go to the national team.",17,86,4.117647058823529,0,3,0,0,71.14,0.0,0,0.8823529411764706,0,0,0,0.0,0.0,0,neutral,False
-39070,39070,the southampton coach was standing crying on the line because the referee whistled haha,14,87,5.285714285714286,0,0,0,0,57.27,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,False
-25562,25562,"someone sends an egyptian referee, guys, zamalek is not used to clean refereeing",13,80,5.230769230769231,0,2,0,0,58.28,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-24133,24133,"festival goals in the range of terror squad haha
-al-ahly has gone downhill from the day it lost the al-ittihad championship this season",23,135,4.913043478260869,0,2,0,0,65.05,0.0,0,0.9130434782608696,0,0,0,0.0,0.0,0,negative,False
-30273,30273,"mikasa's cut and style are from cartoons in the nineties and space, and so on, but it's sweet, haha
- on titan",21,109,4.190476190476191,0,5,0,0,92.46,0.0,0,0.9047619047619048,0,0,0,0.0,0.0,0,neutral,False
-24037,24037,"-nasr_al-rayed_al-douri, the director of the match, nasrawi.. haha, yes, you will answer this replay",14,100,6.214285714285714,0,11,0,0,64.37,0.0,0,0.9285714285714286,0,0,0,0.0,0.0,0,neutral,False
-23200,23200,"i ask forgiveness from god haha, a defense scandal, and then",11,60,4.545454545454546,0,2,0,0,68.77,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-28265,28265,"the idea is that it is normal that al-ahly can win bayern and then lose the final and paralyze us, as usual in football in egypt.
-haha, i'm joking with you, we're going to be humiliated today.",37,192,4.216216216216216,0,8,0,0,69.62,0.0,0,0.8648648648648649,0,0,0,0.0,0.0,0,neutral,False
-22248,22248,"i hope zamalek fans take things smoothly... zero smoothness, haha",10,65,5.6,0,4,0,0,74.86,0.0,0,1.0,0,0,0,0.0,0.0,0,positive,False
-34467,34467,"the coach is mumtaz el muntaz, and i demand the club's management to extend his contract for three years and by the end of 2025
- _ how",27,134,3.962962962962963,0,3,0,0,77.91,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,1,neutral,False
-24978,24978,"excused thor asia, the guard is wearing red, haha",9,49,4.555555555555555,0,2,0,0,87.72,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-29684,29684,"praise be to god, the infiltration of haha # saudi arabia_argentina",11,67,5.181818181818182,0,3,0,0,35.95,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-37181,37181,"nada played a quarter of an hour, didn't touch the ball once",12,60,4.083333333333333,0,2,0,0,84.68,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-37413,37413,al-ahly player hits the mouse and the referee walks it # al-ahly_riyadh,12,71,5.0,0,4,0,0,85.69,0.0,0,0.9166666666666666,0,0,0,0.0,0.0,0,neutral,False
-39245,39245,"our team plays ourselves first. for those who play yesterday, the defender throws the ball for me to attack. you and your lap should say, or not. there are no midfield players in the team. something that makes you laugh, by god haha.
-",43,234,4.441860465116279,0,8,0,0,96.59,6.7,0,0.9069767441860463,0,1,0,0.0,0.0,0,neutral,False
-25773,25773,"after this match, there should be nothing to prevent barcelona from taking the league.. i don't know how they won",20,113,4.7,0,4,0,0,95.17,0.0,0,1.0,0,1,0,0.0,0.0,0,neutral,False
-39308,39308,"i mean, if zamalek won and climbed, something would happen
-and the prophet does not happen to anything haha
- _ agadir _ for _ zamalek _ and _ the _ masses",31,154,3.967741935483871,0,8,0,0,65.39,0.0,0,0.6774193548387096,0,0,0,0.0,0.0,0,neutral,False
-33883,33883,"okay, tomorrow if i found my brother, my husband, or my son in a state of ""felt adultery"" (hahaha) and killed him out of ""innate jealousy"" and ""enjoining what is good"", no one would philosophize about me.. this is called ""defending god's right"" and ""jealousy against honor is consistent with common sense."" it is self-evident
-it seems that the story needs a thousand years, not a hundred",67,387,4.791044776119403,0,22,0,0,65.76,11.9,5,0.835820895522388,0,0,0,0.0149253731343283,0.0149253731343283,0,neutral,False
-30799,30799,"all the showers they made, the pep pep against salah, because of the story of the best player in the history of egypt... haha
-ibrahim abdel samad, of course
-and this is an attacking player in al-ahly for many years, and he did not score a single goal because he was miserable",52,275,4.307692307692308,0,8,0,0,70.47,0.0,0,0.75,0,1,0,0.0,0.0,0,neutral,False
-28305,28305,"defence, oh, oh, oh",4,19,4.0,0,3,0,0,92.8,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,False
-39235,39235,", before moving to -nasr, a distinguished player, mahari al-ahly, envied him..a player who has a future not only in al-ahly, but in the saudi national team..i hope he comes to our club
- moved to -nasr, an ordinary player who is not good at playing football skill on the one hand, and on the other hand, he does not deserve to play in the national team
-",66,352,4.318181818181818,0,16,0,0,66.37,9.7,0,0.7121212121212122,0,0,0,0.0,0.0,0,neutral,False
-29342,29342,"zamalek is the strangest beings in the world
-i mean, in matches, he loves the referee and encourages him, and he is the best referee so that he will come with them, and after the match, the referee will do this in order to destroy their joy, and because people say that zamalek wins with the referees, and he already wins with the referees.
-",64,341,4.328125,0,8,0,0,31.9,0.0,0,0.609375,0,0,0,0.0,0.0,0,neutral,False
-24375,24375,"god willing, everyone who does not have a memory to enter, go and believe me, it will happen to the same issue as the gates are broken and all people entered.
--ahly _ al-jabalin",34,177,4.235294117647059,0,7,0,0,71.14,0.0,0,0.9117647058823528,0,2,0,0.0294117647058823,0.0,0,neutral,False
-24084,24084,the first reaction from the al-ahly administration after the loss from sun downs ... it is strictly forbidden for al-ahly to stay in any five-star hotel anymore,27,160,4.962962962962963,0,6,0,0,66.74,0.0,0,0.8518518518518519,0,0,0,0.0,0.0,0,neutral,False
-34416,34416," _ abha
-wasted time (old)
-predecessor of local government (old)
-.
-.
-.
-the triple alliance group thinks of a new predecessor",22,123,4.590909090909091,0,8,0,0,61.83,0.0,0,0.7727272727272727,0,0,0,0.0,0.0,0,neutral,False
-28552,28552,"the national coach is not welcome from all of this
-what we used to answer is a heroic work that must be true
-you have enemies, success. the foreigner, you come to learn with us, preach
-in the millions. you are all in all. the patriotic record
-he must develop himself, he must take training courses, invent
-ok, no one wants to develop and gain experience?
-haha weird.",68,366,4.397058823529412,0,11,0,1,71.14,10.7,0,0.7941176470588235,0,5,0,0.0,0.0,0,neutral,False
-27281,27281,"the referee raises sugar in the national team and in the ballagha... do not overthrow him, he will whistle at you wrongly. haha",23,127,4.565217391304348,0,5,0,0,68.26,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,0,neutral,False
-23319,23319,"there are people who follow the saudi league and it affects their feelings positively or negatively, haha, thank god only",20,121,5.1,0,2,0,0,42.72,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-38686,38686,"they left the year empty-handed and walked to the treasury. they brought the cup last year and celebrated it with 100 goals for the total of two seasons. haha, how strange you monkeys are. what kind of cauldron do you use",41,221,4.414634146341464,0,5,0,0,86.4,7.2,0,0.8048780487804879,0,0,0,0.0,0.0,1,neutral,False
-35466,35466,"haha, morata didn't want to be happy, and kaisol, the referee, what's the matter?
-hold mr",16,89,4.625,0,7,0,1,72.16,0.0,0,0.9375,0,0,0,0.0,0.0,0,neutral,False
-36699,36699," _ jardim _ demand2
-haha, sweet dismissal of the coach, haha
-no coach or anything else
-i say to the crews, do not be upset with the coach. they will tell you how many referees you have, and you will forget the team and the coach's mistakes, as is your annual habit, and you will return to yelling in every council. i am the leader of asia.
-note: if the coach has a high salary, you can change it and put it in referees",84,418,3.976190476190476,0,14,0,0,84.0,8.1,0,0.7261904761904762,0,0,0,0.0,0.0,1,neutral,False
-24434,24434,zamalek is the most shawl five team  _ khamsa,9,45,4.0,0,1,0,0,96.18,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-25684,25684,"why do i really encourage zamalek, and why do they support us",12,61,4.166666666666667,0,1,0,0,67.76,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,False
-41811,41811,"the ball is in one valley and juta is in another valley, and he will calculate it as a matter of course haha",23,108,3.739130434782609,0,1,0,0,65.05,0.0,0,0.8695652173913043,0,0,0,0.0,0.0,0,neutral,False
-22947,22947,"-hilal _ al-fath
-this result loses al-hilal by a large percentage to obtain the league this year. may god not interfere with the fate of the league champion out of spite for victory and to compensate al-ittihad for last season",40,226,4.675,0,6,0,0,59.64,0.0,0,0.825,0,0,0,0.0,0.025,0,negative,False
-36413,36413,"do not rush to judgement, and do not philosophize. the state will hold the culprit accountable, whoever he is. the emir ordered the formation of a committee to investigate the matter. and whoever has time to work, what do you have to do # khamis_mushait_orphans",45,261,4.822222222222222,0,9,0,0,68.77,11.2,0,0.7111111111111111,0,0,0,0.0,0.0,0,neutral,False
-39679,39679,"god god, my prophet",4,19,4.0,0,1,0,0,118.18,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-28880,28880,"but the referee honestly honored us with three planets.. doesn't al-hilal score
--hilal _ al-batin",15,97,5.533333333333333,0,7,0,0,55.4,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-27140,27140,"haha barcelona is a sin, but for rome to score a goal bye bye barcelona",15,71,3.8,0,1,0,0,98.55,0.0,0,0.8,0,0,0,0.0,0.0,0,neutral,False
-39377,39377,"al ahly and +90
-an endless love story",8,37,3.75,0,1,0,0,88.74,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,False
-36744,36744,"the referee is english, and what did i expect? haha, damn your bright head",14,74,4.357142857142857,0,3,0,1,81.29,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-22897,22897," player _ and _ a _ coach _ of _ al-ahly's size
-no one writes repeated tweets to make the hashtags go away. long live, monsters. do not be afraid. the club president is respected, and he will not go to al-ahly channel and tell you that you are the owner",51,253,3.9607843137254894,0,13,0,0,92.32,8.1,0,0.7647058823529411,0,0,0,0.0,0.0,0,neutral,False
-41418,41418,"may god keep you, zamalek players, we don't want cold seasons today, may god honor you. we are wiping them with twitter tiles from yesterday.
-i am the only one who mentions al-ahly account 4 times as a mockery go back and forth tonight",44,235,4.363636363636363,0,7,0,0,81.93,6.4,0,0.9318181818181818,0,0,0,0.0,0.0,1,neutral,False
-37043,37043,they agree to protest after you win al hilal.,9,45,4.111111111111111,0,1,0,0,96.18,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-33665,33665," _ al-ahly _ like _ al-ittihad
-where are some al-ahly flags?
-why did they hide these penalties from al-ahly fans?
-were they busy making pancakes and drumming for a club other than their own, and were they fanning the al-ahly entity because it was relegated?
-or that they do not know about the affairs of al-ahly and cut off its news because of the relegation?
-he's eating again with the stomachs",71,395,4.563380281690141,0,15,0,4,82.44,8.2,0,0.7605633802816901,0,0,0,0.0,0.0,0,neutral,False
-36860,36860,"salamat, ittihad, why does the league not want a tie?! i think the match ended 3-3 at the time.",19,95,4.052631578947368,0,6,1,1,95.67,0.0,0,0.8947368421052632,0,0,0,0.0526315789473684,0.0,2,neutral,False
-40495,40495,"al-sairi, after the referee gave him the yellow card, pointed to him for its paper",15,82,4.533333333333333,0,3,0,0,64.71,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,0,neutral,False
-35383,35383,"haha, we give you defense and miss you, chaka, watching",10,55,4.6,0,3,0,0,78.25,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-39869,39869,"the audience. al-tawaqi and alama want to make you forget his sarcasm in asia, and that he took the league well. he doesn't know that everyone knows that he has been successful since the first year.",36,198,4.527777777777778,0,6,0,0,78.59,0.0,0,0.8055555555555556,0,1,0,0.0,0.0,0,positive,False
-23729,23729,"the heretics are able to defend abu tamouh. isn't this the one who stood on the ball and burned you, you heretics?
- _ ambition _ mind _ goes",28,140,4.0,0,7,0,1,95.88,6.4,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,False
-25570,25570,finally  includes the saudi league,5,34,5.8,0,0,0,0,49.48,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-28616,28616,"haha, every match, the four-wheel drive worked. -nasr_al-fayhaa_al-douri",8,72,8.125,0,9,0,0,37.98,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-26885,26885,"us state department: we continue our efforts to help saudi arabia defend its security from external attacks
-this is because we are studying imposing sanctions on the task force, as well as planning to restructure the government in saudi arabia, and we will take harsh measures.
-hahahaha
-more right than his assistant, god will sift you",56,335,5.0,0,5,0,0,43.06,0.0,0,0.875,0,0,0,0.0,0.0,0,neutral,False
-35489,35489,"haha, people trample the ball and walk with him",9,47,4.333333333333333,0,1,0,0,87.72,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-35362,35362, _ faisaly,2,10,4.0,0,1,0,0,120.21,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
-36323,36323,"and then, my family, a lot of attacks, we want a goal, and they are 10. let's break our nerves. 12 honeyed stones. first half, we want two stones.",29,146,4.068965517241379,0,10,0,0,106.37,6.0,0,0.8275862068965517,0,0,0,0.0,0.0,2,neutral,False
-26391,26391,"regarding al-ahly's complaint to the federation, the league and the disciplinary committee
-we will not live in the decisions of the egyptian football association for a reason
-mortada mansour came out and insulted them and said that this union does not have a man
-and the man among them turns out to show me his face
-we saw one of them come out or see him and his face
-here the question remains:",73,394,4.410958904109589,0,4,0,0,14.3,0.0,0,0.6986301369863014,0,0,0,0.0,0.0,0,neutral,False
-30813,30813,"mido amal complains about al-ahly committees attacking him because he said two words about zamalek
-fight your battle alone, mido, none of us will defend you, so write us off",30,173,4.8,0,4,0,0,57.95,0.0,0,0.9333333333333332,0,1,0,0.0,0.0,0,neutral,False
-40036,40036,"tonight's classic.
-abu period - and abu fitratin
-tonight's meeting...
-the referee wears a scalp or a furutin",18,108,5.055555555555555,0,7,0,0,71.31,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,False
-38112,38112,"talaat youssef, when he sleeps on the bed, loves to sleep under his legs uncle, football is not like that, you hated me in it
-come on, in general, thank god, i took 2 extras
- _ enppi",37,182,3.918918918918919,0,8,0,0,67.76,0.0,0,0.972972972972973,0,0,0,0.0,0.0,1,neutral,False
-31522,31522," of the two holy mosques cup
- _ youth
-after the  2022 and its beauty is the fun and enthusiasm of the matches
-we need to take a period of psychological football
- league
- and his enthusiasm
-but we can't get away from the  and its beauty",45,235,4.111111111111111,0,2,0,0,42.72,0.0,0,0.7111111111111111,0,0,0,0.0,0.0,1,neutral,False
-35795,35795," _ league _ is _ greater _ than _ applications
-watch mashavh need haha",14,70,4.0,0,5,0,0,82.65,0.0,0,0.7142857142857143,0,0,0,0.0,0.0,0,neutral,False
-36655,36655,"muhammad, my brother, opened al-ahly channel, and found him working as a cook",13,77,5.0,0,4,0,0,83.66,0.0,0,1.0,0,0,0,0.0,0.0769230769230769,0,neutral,False
+#ontime_sports https://t.co/o9du9mvmu9",22,167,6.636363636363637,0,11,0,0,32.22,0.0,0,0.9545454545454546,0,0,0,0.0,0.0,3,neutral,True
+9012,9012,"the portuguese coach, jesvaldo ferreira, coach of zamalek, addresses the mistakes of his team's match against pharco, which the white team lost 3-0 in the seventeenth round of the league.",30,187,5.266666666666667,0,7,0,0,57.95,0.0,0,0.8,0,0,0,0.0,0.0,2,negative,True
+15310,15310,"zamalek players pledged to continue victories locally and continually, after the precious victory they achieved over tunisian esperance last tuesday, with three goals against one goal, in the match that brought them together at burj al arab stadium.",38,249,5.578947368421052,0,4,0,0,32.91,0.0,0,0.9736842105263158,0,0,0,0.0,0.0,0,positive,True
+4975,4975,"al-ahly bank officials decided to motivate the team's players by releasing their financial dues and disbursing a reward in the event of victory over smouha, the next match in the premier league, and exit from the relegation circle.",38,231,5.105263157894737,0,5,0,0,32.91,0.0,0,0.8421052631578947,0,0,0,0.0,0.0,0,neutral,True
+1678,1678,"the algerian ahmed al-kandoussi, al-ahly player, won the praise of the team's technical staff, despite his participation for several minutes with the red genie during the last period, since he joined the club last january.",35,222,5.371428571428571,0,8,0,0,27.49,0.0,0,0.8285714285714286,0,0,0,0.0,0.0,0,positive,True
+25534,25534,"al-ahly will go to eat al-hilal, the next match 5, qualify and win all teams, and of course take the championship",21,113,4.428571428571429,0,5,0,0,75.54,0.0,0,0.9047619047619048,0,1,0,0.0,0.0,1,neutral,False
+26216,26216,don't worry about football coming to you....... coming to you,10,61,5.2,0,8,0,0,83.32,0.0,0,0.8,0,0,0,0.0,0.0,0,neutral,False
+29338,29338,the commentator of the zamalek match and the algerian belouizdad youth was saying poetry in zamalek,16,99,5.25,0,0,0,0,38.32,0.0,0,0.8125,0,0,0,0.0,0.0,0,neutral,False
+40083,40083,"haha, it's important that the moroccan referee gave them a medal, and that's not the case",16,89,4.625,0,4,0,0,72.16,0.0,0,0.9375,0,0,0,0.0,0.0,0,neutral,False
+36086,36086,what happens in the saudi sports channels in the first half of the al-ittihad and al-taawon match? the match changes to a recorded european league match.,26,153,4.923076923076923,0,4,0,1,75.2,0.0,0,0.8461538461538461,0,0,0,0.0,0.0384615384615384,0,neutral,False
+30130,30130,the goalkeeper of argentina is exactly like ramadan sobhi. someone throws him a genie on the ground. he goes down and gets him.,23,127,4.565217391304348,0,3,0,0,80.58,8.8,0,0.9565217391304348,0,0,0,0.0,0.0,0,neutral,False
+30003,30003," _ union
+player no. 12 is absent today from al-faqraouia, which is the reason for their loss",17,92,4.411764705882353,0,4,0,0,88.23,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,1,neutral,False
+32019,32019,"hey guys...
+maybe  doesn't know that  is occupied... haha
+perhaps she has no news that  has been in control of all aspects of government for 18 years... haha
+perhaps you don't know what the sectarian militias have leveled in  cities, or the millions of martyrs, homeless, and orphans.
+of course, you don't know the militia's crimes against the demonstrators today",60,363,5.0,0,18,0,0,73.17,8.8,0,0.75,0,1,0,0.0,0.0,1,neutral,False
+25913,25913,on the basis that the league ends if he boycotts. haha.  league,12,63,4.25,0,2,0,0,84.68,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,False
+24927,24927,"saad samir, the founder, did he enter the second place? haha, where were you, my love, in the al-ahly match",20,107,4.4,0,7,0,1,95.17,0.0,0,0.9,0,0,0,0.0,0.0,0,neutral,False
+24581,24581,"guys, the match ended with a goal difference, which means the level of the streets and the coaches are the same haha
+  ",22,119,4.318181818181818,0,2,0,0,74.53,0.0,0,0.8181818181818182,0,0,0,0.0,0.0,0,neutral,False
+30363,30363,"i wish napoli would think about the league
+european champions league draw",12,73,5.166666666666667,0,0,0,0,84.68,0.0,0,0.9166666666666666,0,0,0,0.1666666666666666,0.0,0,neutral,False
+29491,29491,"imagine losing the league as well, laughter collapses",8,53,5.75,0,1,0,0,63.36,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,False
+38505,38505,"brother, samaja, your activities are on newcastle. it's okay, you and him, and by god, karenj tra
+how do you see it offside mahi offside! hahahaha
+kane masjtjt but us haha
+god willing, it will fall",36,197,4.5,0,9,1,0,76.22,8.8,0,0.9166666666666666,0,0,0,0.0,0.0,0,neutral,False
+26611,26611," _ ran _ to _ win _ the _ league _ title haha haha, praise be to god and thanks, and this will definitely make you want the bright yellow but may god keep the mouse and its quarter away from us",42,193,3.595238095238096,0,8,0,0,62.69,0.0,0,0.7380952380952381,0,1,1,0.0,0.0,0,neutral,False
+38330,38330,"the best thing about the matter is that i want to gozzzzzzzzzzzzzzzzzzzzzzzzzz, my dad tells me that the league is zamalek haha ",22,128,4.818181818181818,0,1,0,0,91.45,0.0,0,0.8181818181818182,0,0,0,0.0,0.0,0,neutral,False
+24352,24352,"ronaldo can only participate after the termination of the contract of 1 of the 8 foreigners present, so he may not participate in several matches??
+who is behind the deal do not know these procedures and laws! and why is contracting in the middle of a season!! hahahaha
+4 matches remaining in the first round, winning them means that the league is close to victory, god willing",67,377,4.641791044776119,0,8,3,2,62.88,12.2,0,0.7611940298507462,0,0,0,0.0,0.0,3,neutral,False
+36397,36397,"haha, what are the defenders entering the door and evacuating the player?",12,73,5.166666666666667,0,2,0,1,42.38,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,False
+36329,36329,knee goal haha don -germain,5,27,4.6,0,1,0,0,83.32,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+29573,29573,"al-ahly won the league, and zizi won the plate. so we will meet in the super, zazza. ha ha ha ha ha ha ha ha ha ha ha ha.",29,121,3.206896551724138,0,6,0,0,103.93,3.1,0,0.5517241379310345,0,0,0,0.0,0.0,0,neutral,False
+32548,32548,26 defense orders passed on us haha,7,35,4.142857142857143,0,0,0,0,81.29,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,False
+23757,23757,zamalek is playing a one-sided match and the apache is determined to break and i sold it far away,19,97,4.157894736842105,0,1,0,0,77.57,0.0,0,0.8947368421052632,0,0,0,0.0,0.0,0,neutral,False
+36258,36258,"by god, i knew that noisir would come on the day the ball flew  conclusion of the rafaq series",19,94,3.947368421052632,0,1,0,0,86.03,0.0,0,0.8947368421052632,0,0,0,0.0,0.0,0,neutral,False
+34208,34208,"the same football, if someone pierces me, i stomp on his man and break him and say, oh, i didn't see you by mistake, and the only problem with this thing is that i ate it, they all knew my system haha",42,200,3.7857142857142856,0,7,0,0,62.69,0.0,0,0.8809523809523809,0,1,0,0.0,0.0,0,neutral,False
+30628,30628,"after the funny plenty, congratulations to the league",8,53,5.75,0,1,0,0,37.98,0.0,0,0.875,0,0,0,0.0,0.0,0,neutral,False
+41602,41602,"the future of al-ahly al-qandoussi midfield, 23 years old.
+peace be upon your future, my rival.
+",16,96,5.0,0,6,0,0,80.28,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,False
+32683,32683,"peace be upon you, a goal, how are you, but the referee looks like the iranians bought it and it was offside from me. tonight is my night and the dream of my life. where is al-amlhi, al-shami and al-azzzzzzi?",40,208,4.225,0,10,0,1,91.82,8.8,0,0.8,0,0,0,0.0,0.0,0,neutral,False
+32787,32787,"brothers, why didn't you turn off the tv, why is it still in the european league draw haha",18,90,4.055555555555555,0,3,0,0,78.59,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,0,neutral,False
+38180,38180,"the youth plan is missing the last one, a guard, the referee, all of them are defense, all of them are in the middle, haha.",25,123,3.96,0,6,0,0,79.94,0.0,0,0.72,0,2,0,0.0,0.0,0,neutral,False
+25249,25249,"i liked it..the video technology confirmed the legitimacy of al-hilal's goal..
+can we see the replay, director ... haha, so are their championships and achievements. merok to al-mashal for this achievement that he is proud of .. a team wins player number 13# al-hilal_al-wahda",44,276,5.295454545454546,0,19,0,0,64.37,8.8,0,0.9545454545454546,0,0,0,0.0,0.0227272727272727,1,positive,False
+30133,30133,"minister of defense of mercenaries al-maqdisi says:
+the fall of marib does not mean the end of the battle with the houthi militia.
+well, talk to your media mouthpieces, who are sitting around spreading about victories in nihm and al-jawf. tell them that your defense minister has disavowed them and said the truth in order not to recklessly and liberate bani hashish. haha.
+oh god, praise be to you.
+ _ is _ liberated",73,417,4.712328767123288,0,13,0,0,73.58,10.4,0,0.7534246575342466,0,0,0,0.0,0.0,0,neutral,False
+39931,39931,the fourth portuguese league expels the premier league leader,9,61,5.888888888888889,0,0,0,0,79.26,0.0,0,0.7777777777777778,0,0,0,0.0,0.0,0,neutral,False
+38676,38676,"there is no one to intervene until now, zamalek is equal. where are the officials? this is a farce",19,98,4.2105263157894735,0,3,0,1,90.46,7.8,0,0.8947368421052632,0,0,0,0.0,0.0,0,neutral,False
+25861,25861,haha lol funny,3,14,4.0,0,0,0,0,59.97,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+40698,40698," _ al-batin
+praise be to god, as a nasrawi fan, i am happy that the referee counted on 12 minutes and won by three goals",25,120,3.8,0,4,0,0,71.48,0.0,0,1.0,0,0,0,0.0,0.0,1,positive,False
+32881,32881,"say everton
+haha, he slipped in for the second time
+",10,52,4.2,0,1,0,0,78.25,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,False
+31710,31710,"no pre-cooked decisions against electrifying
+we will not allow a flattery to be flattered at kahraba's expense
+your dignity is excessive with your convenience, but the dignity of electrification and the al-ahly fans is a red line.
+calculate the bicycle that i explained to you while you put your heads in the sand
+then he really hit the target right
+ _ al-ahly _ audience _ with _ you",68,384,4.647058823529412,0,10,0,0,45.43,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,False
+34854,34854,"oh lord, the league takes it, al-hilal takes it, al-ahly takes it, afif takes it, al-nass takes it haha, i'm kidding..
+any team takes him, and they don't forget this season, and we start a new season next year, but men don't rejoice in that.",45,241,4.377777777777778,0,18,0,0,82.48,0.0,0,0.7777777777777778,0,0,0,0.0,0.0,0,neutral,False
+40247,40247,"haha, the referee quickly zeroed the mistake for levante, hahaha, but madrid's obvious mistakes he doesn't see",17,110,5.529411764705882,0,5,0,0,37.3,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,0,neutral,False
+37673,37673,"haha, isn't he the same coach who sees odoi not wanted? income ahan atht peg failure it!
+almost half a season, i am not convinced about it, although if he replaces werner, he will perform better offensively.",37,207,4.621621621621622,0,8,1,1,75.91,6.4,0,0.918918918918919,0,0,0,0.0,0.0,0,positive,False
+29415,29415,"hahahahaha, in four hours, zamalek went down from the first to the third,, thank god that there are no other matches today, otherwise we would have found him wrestling on the landing haha # back_drr_ya_zamalek",35,209,5.0,0,9,0,0,45.43,0.0,0,0.9428571428571428,0,0,0,0.0,0.0285714285714285,0,negative,False
+25782,25782,"remember, teacher kohler, how many followers do you have, and after al-ahly people, how many followers will you have
+",19,117,5.157894736842105,0,5,0,0,60.65,0.0,0,0.7894736842105263,0,0,0,0.0,0.0,0,neutral,False
+33853,33853,"do not sell glasses, the possibility of falling again  _ al-ahly _ like _ al-ittihad",15,84,4.6,0,6,0,0,64.71,0.0,0,0.8666666666666667,0,0,0,0.0,0.0,0,negative,False
+34730,34730,"i swear to god, milanese, you guys are boring
+learn from the english premier league. ok, give them a chance to have some enthusiasm
+haha, congratulations to all my milanese friends
+a 100% deserved tournament witnessed by the last five matches alone",42,248,4.928571428571429,0,6,0,0,67.08,0.0,0,0.9047619047619048,0,1,0,0.0,0.0,1,neutral,False
+24319,24319,"it is true that i was once happy with the victory, and i feel the league is close, but to be honest, i am afraid of the saying that the league has been decided, and whoever followed barcelona 2016 and al-ittihad last year knows what i mean",47,239,4.1063829787234045,0,5,0,0,49.15,0.0,0,0.7659574468085106,0,0,0,0.0212765957446808,0.0,1,positive,False
+24098,24098,haha funny defense,3,18,5.333333333333333,0,0,0,0,34.59,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+40603,40603,"the results of zamalek are related to the results of liverpool
+liverpool wins = zamalek wins
+liverpool lose = zamalek lose
+strange thing",23,136,4.956521739130435,0,2,0,0,50.16,0.0,0,0.5652173913043478,0,0,0,0.0,0.0869565217391304,0,neutral,False
+30949,30949,"honestly, casemiro, this is the english premier league, not the spanish league, there is no one who will have mercy on you",22,122,4.590909090909091,0,4,0,0,74.53,0.0,0,0.8636363636363636,0,0,0,0.0,0.0,0,neutral,False
+41188,41188,"real madrid knocked yesterday, haha. this is a team, by god. who is from a normal team?",17,87,4.176470588235294,0,5,0,1,91.07,6.4,0,0.8823529411764706,0,0,0,0.0,0.0,0,neutral,False
+37751,37751,"from next month, god willing, muammar al-aryani will have to buy dean luma whiskey, and sanaa will pay him half of his salary every three months, like the rest of the yemenis.
+they didn't have any revenue from the national bank of saudi arabia, to which the saudi ambassador would transfer the value of whiskey to him.
+god provides him with the right to rent and school fees, the right of the children.
+-daba port",75,413,4.52,0,12,0,0,79.94,7.8,0,0.7066666666666667,0,0,0,0.0,0.0,0,neutral,False
+27263,27263,"at night, they think they will bring us, haha, the laughter club
+ _ laughing _ of _ the _ century",20,97,3.85,0,7,0,0,76.56,0.0,0,0.75,0,0,0,0.05,0.0,0,neutral,False
+27577,27577,"zamalek beat anbi 2 thank god for everything, two things are easier than the palm that came down to me",20,102,4.15,0,1,0,0,76.56,0.0,0,1.0,0,0,0,0.0,0.0,1,positive,False
+33408,33408,urgent: delete all videos of zamalek president mortada mansour from his youtube channel,13,87,5.769230769230769,0,1,0,0,58.28,0.0,0,1.0,0,1,0,0.0,0.0,0,neutral,False
+33487,33487,"captain farouk jaafar is one of the beautiful personalities, and he is not afraid of anyone, but these days he appears a lot in the media and also the zamalek channel, and he is smart in his responses, but what many do not know is that his presence in the channel is due to only one reason, his son.
+haha interests",61,314,4.163934426229508,0,6,0,0,26.48,0.0,0,0.6885245901639344,0,0,0,0.0,0.0,0,neutral,False
+36412,36412,"al-ittihad is dead, and by god, the rest will lose the league and return to zero point",17,86,4.117647058823529,0,3,0,0,88.06,0.0,0,0.8823529411764706,0,0,0,0.0,0.0,0,negative,False
+41158,41158,"slow down, then slow down, then slow down, to get the victory out of the stadium. we are in the lead in the league, and god willing, we will not give up this lead. let go of the heresies of some, and the legal committee will guarantee them",48,239,4.0,0,8,0,0,89.08,9.7,0,0.6666666666666666,0,0,0,0.0,0.0,0,neutral,False
+32289,32289,"this ruling is very wrong
+sun downs, if jool enters it, in the end, it will be a serious play regardless that it is the best team currently playing football in africa, and if anyone wants to compare its level, go play sun downs and watch",46,237,4.173913043478261,0,5,0,0,50.17,0.0,0,0.8260869565217391,0,0,0,0.0,0.0,0,neutral,False
+37019,37019,", will you go to dybala cuadrado?",7,33,3.857142857142857,0,2,0,1,90.77,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+27158,27158,"one ghalban asked me if zamalek was the one playing real madrid, how much would the score be? i told him to see how many riyals win, and hit three of them",32,154,3.84375,0,3,0,1,97.54,0.0,0,0.90625,0,0,0,0.0,0.0,0,neutral,False
+36188,36188,"if it were not for god and then the injury, he would not have played the next round against al-ahly. you know or not .",25,118,3.76,0,4,0,0,110.06,0.0,0,0.88,0,0,0,0.0,0.0,0,neutral,False
+40221,40221,"al-ahly shawl 5 from sundowns
+cotton will pay the price",10,55,4.6,0,1,0,0,95.17,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,False
+39250,39250,", did you know what is really good and the difference between the egyptian and what you win with",19,96,4.105263157894737,0,1,0,0,78.59,0.0,0,0.7894736842105263,0,0,0,0.0,0.0,0,neutral,False
+29716,29716,"your embrace includes you, haha, with two goals # al-nasr_damak_al-douri",10,72,6.3,0,7,0,0,45.42,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+29326,29326,"
+haha, liverpool championship, display, salah, and mane, after 97 d, he played with the spirit of the soul, scored a goal.
+salem in his garden scored a crackling goal after only 17 minutes.
+i am talking about you and you are not from arija",44,239,4.431818181818182,0,9,0,0,73.47,8.8,0,0.8636363636363636,0,0,0,0.0,0.0,2,neutral,False
+36031,36031,"when you work in it, i advise you on an electrician, oh hani, you need it. we didn't see your advice with shikabala, who made a mistake a million times in al-ahly fans.",33,168,4.121212121212121,0,8,0,0,80.11,0.0,0,0.8787878787878788,0,0,0,0.0,0.0,0,neutral,False
+39220,39220,"when you have the ball in your hands to get a goal, but do you think that one time shahat found a million pounds in a large mosque so that he could spend it alone haha",36,167,3.6666666666666665,0,1,0,0,77.24,0.0,0,0.8611111111111112,0,0,0,0.0277777777777777,0.0277777777777777,0,neutral,False
+31112,31112,"do you know what is common between abu arbaa and abu khamas? the two took 6 from al-ahly, haha",19,94,4.0,0,3,0,1,95.67,0.0,0,0.9473684210526316,0,0,0,0.0,0.0,1,neutral,False
+40255,40255,"
+nice match, the bundesliga, its fun, el clasico, no one else is watching it, haha",15,82,4.466666666666667,0,5,0,0,73.17,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+26317,26317,offside haha,2,12,5.5,0,0,0,0,35.61,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+39553,39553," luck to the saudi team
+contradictions
+the sheikh criticizes al-sahlawi as a striker, then sends him for two weeks and plays him as an essential player.
+assaf al-qarni is the best goalkeeper in reaction, they return him and put the heaviest goalkeeper among them, haha
+the statistics of the reserve players are better than the main ones, and why are we defeated?",62,362,4.838709677419355,0,8,0,1,48.47,0.0,0,0.7903225806451613,0,0,0,0.0,0.0161290322580645,0,neutral,False
+31241,31241,"after abu snaida al-qatari and zamalek revealed the truth as the first team to defeat lusail stadium, al-hajj kamel is in service and will start soon",26,149,4.769230769230769,0,3,0,0,62.01,0.0,0,0.9230769230769232,0,0,0,0.0,0.0,0,neutral,False
+37930,37930,"by god, keep us busy in my house yesterday. did you give me any industry for it yesterday? so what is his shot? ok, any sweet evasiveness for him? mafieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee, he catches the ball and overthrows it or transfers it to the other side and they told you wow",49,323,5.612244897959184,0,7,0,3,95.37,8.2,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,False
+33170,33170,"al-ahly loses, the union remains a failure, and everyone is like asphalt, zamalek loses, so the genius of al-jahlawi speaks.",20,124,5.25,0,7,0,0,59.64,0.0,0,0.9,0,1,0,0.0,0.0,0,negative,False
+23542,23542,zamalek fans qafshah why haha,5,29,5.0,0,0,0,0,66.4,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+38708,38708,"you want the league, my servants",6,32,4.5,0,1,0,0,99.23,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+36626,36626,"al-akah says al-ahly is the one who taught us football. haha, curse the mother of al-habad and lie",18,98,4.5,0,5,0,0,96.18,0.0,0,0.9444444444444444,0,0,0,0.0,0.0,0,neutral,False
+37601,37601," _ crescent _ and _ victory _ union
+hahahaha",9,44,3.888888888888889,0,4,0,0,53.88,0.0,0,0.6666666666666666,0,0,0,0.0,0.0,0,neutral,False
+27432,27432,spider guard haha,3,17,5.0,0,0,0,0,59.97,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+38491,38491,zamalek rode qatar,3,18,5.333333333333333,0,0,0,0,93.81,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+37020,37020,referee touch bafel haha,4,24,5.25,0,0,0,0,50.5,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+36658,36658,"haha, he steals a club and does not steal a country # morteza_ stole_ zamalek_ yassi",16,84,4.3125,0,5,0,0,81.63,0.0,0,0.9375,0,0,0,0.0,0.0,0,neutral,False
+40745,40745,"al-ahly is pathetic, but i didn't pity him either",9,49,4.555555555555555,0,3,0,0,79.26,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+28872,28872,"haha, cooperation is a goal, stop cooperation, they annoyed us all summer ",12,74,5.166666666666667,0,3,0,0,33.92,0.0,0,1.0,0,1,0,0.0,0.0,0,negative,False
+30378,30378,"super hattrick iqaloo
+difference between super hattrick in asia
+and a super hat-trick in the league
+-hilal _ al-duhail",19,118,5.2631578947368425,0,4,0,0,52.19,0.0,0,0.7894736842105263,0,0,0,0.0,0.0,0,neutral,False
+33455,33455,"a mutant president whose deals are first-class players, and do you want to take the league? haha, may god give us patience with this affliction",25,143,4.76,0,4,0,1,75.71,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+37308,37308,"you are funny, lord, thank you.",6,31,4.333333333333333,0,3,0,0,99.23,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+24745,24745," _ al-ahly
+suspicion (v)
+and suspicion (pbuh)",7,45,5.428571428571429,0,6,0,0,64.37,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,False
+32362,32362,the verdict,2,11,5.0,0,0,0,0,77.91,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+33824,33824,"i sold trossard gap john, i put huderson on a clean sheet and a bonus haha",16,74,3.6875,0,1,0,0,89.08,0.0,0,0.875,0,0,0,0.0,0.0,0,neutral,False
+33991,33991,then they tell us why the referee did not give them 12 minutes of the same victory # al-hilal_al-fath,19,101,4.368421052631579,0,4,0,0,70.13,0.0,0,0.9473684210526316,0,0,0,0.0,0.0,1,neutral,False
+40350,40350,"it is our right to rejoice, our right to be happy, and our right to cheer for all the groups that rebuked us.
+penalty kick with star,
+and now a penalty kick with al-ansar.
+and we won against you, the civilized masses
+ _ league
+ ten
+",45,232,4.111111111111111,0,8,0,0,90.09,6.4,0,0.7333333333333333,0,1,0,0.0,0.0,0,neutral,False
+38331,38331,"haha, the al-ahly club itself does not have a right to the value, ha-ha-ha-ha, yanni",15,84,4.666666666666667,0,7,0,0,64.71,0.0,0,0.9333333333333332,0,0,0,0.0,0.0,0,neutral,False
+41445,41445,al ain left its matches in the league... its division... hahaha,11,63,4.818181818181818,0,6,0,0,68.77,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,0,neutral,False
+38810,38810,the don winks at the next ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha.,7,95,12.714285714285714,0,23,0,0,-147.14,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,False
+24789,24789,salman today was the closest player to the heart of the defense and the first supporter of the two full backs and supporter of lucknow and the axis of the game and put pressure on the al ittihad defense at the time of building the attack and increasing the number in the penalty area and he was trying to win the second ball and shoot .. but the audience did not like it haha,74,375,4.081081081081081,0,2,0,0,59.81,0.0,0,0.6351351351351351,0,0,0,0.0,0.0,0,neutral,False
+25698,25698,"the referee lost a little bit and gave me a warning too! haha, it's not normal to see him distributing warnings from his mother's money?!",25,137,4.52,0,6,2,1,75.71,0.0,0,0.96,0,0,0,0.0,0.0,0,negative,False
+22081,22081,"the car from which the currency was stolen is not licensed and the suspected guard with ten search posts increased, a berlingo car appeared",24,139,4.833333333333333,0,1,0,0,72.5,0.0,0,0.875,0,0,0,0.0,0.0,0,negative,False
+31209,31209,"suspicious 2019 league
+al-hilal is missing 11 international players who participate with the national team, and the competitions committee issues a decision to continue the league!
+the -ahly team in the  league competitions is postponing 5 matches for it due to the absence of two players to participate with the national team?
+brother, the blue lobby is still messing with our sport",62,383,5.17741935483871,0,6,1,1,42.0,15.0,0,0.7096774193548387,0,0,0,0.0,0.0,3,negative,False
+24169,24169,"this is a warning, and the first one on the same player is not a warning",16,72,3.5625,0,1,0,0,89.08,0.0,0,0.8125,0,0,0,0.0,0.0,0,neutral,False
+40018,40018,"mohamed el-atribi holds an exempt membership from zamalek, although the conditions do not apply to him
+he obtained a membership of 70,000 pounds
+although he is supposed to pay 200 thousand pounds, and he obtained it according to the decision of the board of directors, session 18, on 3/28/2021
+oh, i forgot to tell you
+mohamed el-atreby's membership number is 90506",61,365,5.0,0,11,0,0,18.02,0.0,0,0.7540983606557377,0,0,0,0.0,0.0,8,neutral,False
+38646,38646,"haha, it is true that it was infiltrated, but thank you, amrabat and bono",14,73,4.285714285714286,0,3,0,0,74.19,0.0,0,0.9285714285714286,0,0,0,0.0,0.0,0,neutral,False
+32582,32582,"my brothers, always, if they see me happy, they know that al-ahly is playing tonight",15,84,4.666666666666667,0,4,0,0,81.63,0.0,0,0.9333333333333332,0,0,0,0.0,0.0,0,neutral,False
+37671,37671,"let him live on his anger. whoever said about us, you disturbed us, knows who he is talking to and who founded sports football and gave them the power to influence",31,163,4.290322580645161,0,3,0,0,81.12,0.0,0,0.8709677419354839,0,0,0,0.0,0.0,0,neutral,False
+35582,35582,haha  laughing stock of the century,6,35,4.833333333333333,0,0,0,0,56.93,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+40201,40201,"just so you know that when zamalek is good, dr. alaa is glorified in it. i mean, he is saying the word of truth.. what is your role? haha
+the rulers of charades... scandals and penalties... music and containment...
+true...if they were afraid...they died...
+and the people in a coma are talking about the old one",56,311,4.571428571428571,0,25,0,1,90.56,5.8,0,0.8214285714285714,0,0,0,0.0,0.0,0,neutral,False
+37748,37748,"al-nasr stumbled yesterday with a loss, and i expect today al-hilal will stumble it is important that al-hilal not move away from the points difference from al-nasr in order to compete for the al-fateh league, which will disrupt them -hilal_al-fateh",40,249,5.25,0,10,0,0,30.88,0.0,0,0.875,0,0,0,0.0,0.0,0,negative,False
+31130,31130,"haha, a judgment in my honor is a hat # al-ahly_al-hilal",11,56,4.181818181818182,0,5,0,0,69.79,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,0,neutral,False
+31894,31894,moroccans are heavy on football haha,6,36,5.166666666666667,0,0,0,0,56.93,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+35964,35964,"-hilal _ zamalek
+a thousand thousand thousand congratulations and always crowning",11,81,6.454545454545454,0,2,0,0,26.47,0.0,0,0.8181818181818182,0,1,0,0.0,0.0,0,neutral,False
+35993,35993,"the national bank calls you and says there is an offer on your financing without commission and without fees, and you did not give the initial approval in the call. it tells you to calculate and reach you, and closes and suspends the request until the date of the offer expires, so that it comes back to destroy your future with a commission that dies while you remain to pay .. played",72,385,4.361111111111111,0,6,0,0,60.82,0.0,0,0.7083333333333334,0,0,0,0.0,0.0,0,neutral,False
+41279,41279,"i am a costume worker
+like a fugitive from ramadan
+haha, it's funny how the soul can manipulate and distort the whole existence and even just the body
+that it ...........
+it is true, what is the purpose of the existence of the evil self?
+the answer will be written in points",52,274,4.288461538461538,0,15,0,1,79.6,8.8,0,0.7692307692307693,0,0,0,0.0,0.0,0,neutral,False
+41435,41435,"i wish the fans of zamalek would have cooled down and stop every bit, saying al-ahly is afraid to play pyramids haha",22,116,4.318181818181818,0,2,0,0,82.99,0.0,0,1.0,0,0,0,0.0454545454545454,0.0,0,negative,False
+39201,39201," alsudais
+-rajhi _ bank i bought a lawsuit from any store, you can return it if you complete the withdrawal process at the points of sale
+but you filled gas for your motor, how do you get it back
+i swear to god, the bengali does not break it until you pay a comment card, a holiday card, a friend who does not know
+say hello to al-ahly bank and al-ahly club",72,357,3.9583333333333335,0,9,0,0,32.24,0.0,0,0.75,0,0,0,0.0,0.0,0,neutral,False
+41829,41829," _ obstacle _ liars
+haha, the name of al-ahly",9,45,4.0,0,4,0,0,87.72,0.0,0,0.8888888888888888,0,0,0,0.0,0.0,0,neutral,False
+23125,23125,"tomorrow is the champions league draw:
+real madrid title holder.
+manchester city (english premier league title holder).
+milan (italian league title holder).
+bayern munich (bundesliga title holder).
+barcelona (pregnant from frankfurt, bayern and half of europe clubs).",37,267,6.243243243243243,0,15,0,0,55.5,8.2,0,0.7837837837837838,0,0,0,0.0,0.0,0,neutral,False
+31082,31082,our doctor treats the referee because he is one of our players haha,13,67,4.230769230769231,0,0,0,0,66.74,0.0,0,0.9230769230769232,0,0,0,0.0,0.0,0,neutral,False
+36421,36421,"some of the fans...
+i wish he hadn't scored the second goal for al-faisaly and expelled al-bulayhi immediately, and after that al-faisaly's victory over al-hilal easily due to the lack of his players... haha",34,207,5.117647058823529,0,13,0,0,54.22,0.0,0,0.8823529411764706,0,0,0,0.0294117647058823,0.0,0,neutral,False
+32210,32210," _ union
+plenty is not counted for the federation, and the mouse did not ask for the ruling. do you know the reason, not al-sabi'i's choice of the mouse's assistant",30,164,4.466666666666667,0,8,0,0,73.17,0.0,0,0.7666666666666667,0,0,0,0.0,0.0,0,neutral,False
+33143,33143,referee sprays cards haha,4,25,5.5,0,0,0,0,50.5,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+35688,35688," _ crescent
+i went to wear blue so that al-hilal would not enter a goal. haha, he answered his heart",20,100,4.0,0,4,0,0,86.71,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+35664,35664,a penalty kick for khaled al-ghannam,6,36,5.166666666666667,0,1,0,0,73.85,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+38790,38790,"the victory was won with the referee al-ajni
+the flags of the chard and the followers they have turned on ronaldo's shot
+ _ abha",24,128,4.333333333333333,0,3,0,0,64.04,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,positive,False
+35205,35205,"8 difference, the strongest offensive line in the league, the strongest defense line in the league and europe, the league's top scorer from us, the most contributor from us, the most clean sheet detective guard from us... spain is under control, my dears",43,254,4.930232558139535,0,10,0,0,66.57,0.0,0,0.6976744186046512,0,0,0,0.0,0.0,1,neutral,False
+40915,40915,"
+gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",1,281,280.0,0,0,0,0,121.22,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+30902,30902,"al-ahly looks like i am envious of his words, haha",10,50,4.1,0,2,0,0,86.71,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+28481,28481,correct goal canceled because of the rock haha,8,46,4.875,0,0,0,0,71.82,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,False
+33186,33186,the second one is for anbi in zamalek,8,37,3.75,0,0,0,0,80.28,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+32766,32766,zamalek lost haha,3,17,5.0,0,0,0,0,59.97,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,False
+27360,27360,"they are calling for foreign rulers, and the day the foreign rule came, they said, ""it is of no use to us. we must abolish it. haha, because they do not benefit from poverty.""",34,175,4.176470588235294,0,9,0,0,85.39,6.4,1,0.8823529411764706,0,1,0,0.0,0.0,0,neutral,False
+22433,22433,"if you can't stop the player, break him",8,39,4.0,0,2,0,0,105.66,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+26199,26199,i wish the liver would bring john because of the view only,12,58,3.9166666666666665,0,0,0,0,84.68,0.0,0,0.9166666666666666,0,0,0,0.0833333333333333,0.0,0,neutral,False
+23246,23246,"dear fan, no matter how bad your team is
+and not satisfied with your team, you know that you are blessed
+you just don't see the meanness of al-ahly and its fans
+their team plays with yellow !
+and their fans on twitter applauded sooner or later
+oh, they are whipped or they lie down for the crescent or the federal one
+a small team that doesn't deserve to be one of the big four
+ _ riyadh",77,387,4.025974025974026,0,8,1,0,66.75,0.0,0,0.7402597402597403,0,0,0,0.0,0.0,0,neutral,False
+35394,35394,"we are all egyptians, whether al-ahly won, god willing, or zamalek lost, god willing",14,84,5.071428571428571,0,5,0,0,82.65,0.0,0,0.9285714285714286,0,1,0,0.0,0.0,0,neutral,False
+26178,26178,the latest news  enslaves -fattah_asiri from  and the destination is for abdel-fattah -wahda sati  abdel-fattah was his dream with victory to achieve  and strange was the dream of returning to the  team and the dreams of the former -ahly stars evaporated in a small income,45,272,4.955555555555556,0,6,0,0,42.72,0.0,0,0.7333333333333333,0,0,0,0.0,0.0,0,neutral,False
+23095,23095,welcome to the local government. haha # al-ahly_al-nujoom,8,57,6.25,0,5,0,0,30.53,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+23995,23995,"2020/2021
+african super cup
+caf champions league ""final ""
+the egyptian league
+egypt cup
+the egyptian super
+and someone with a dog's head comes and tells you, ""haha, you are tied, haha,"" and he is competing for two championships. i am the king in them.",45,251,4.6,0,12,0,0,74.53,0.0,2,0.8222222222222222,0,0,0,0.0,0.0,2,neutral,False
+31575,31575,"oh smart one... look at the cat filming from the side of the stadium and this is wrong.. they should give the referee more than one shot!? and he doesn't get close and far away to confirm the verdict,!? and you hit the penalty, the mouse gets mad!? and other exciting..!?
+and you call it the auctioneer club!? haha, the auctioneer club that failed externally and four-wheel drive internally",69,390,4.666666666666667,0,22,5,5,88.13,8.5,0,0.7681159420289855,0,1,0,0.0,0.0,0,neutral,False
+38742,38742,"once upon a time, the football association wanted to renew cooper before the world cup, haha.",16,93,4.875,0,3,0,0,46.78,0.0,0,0.9375,0,0,0,0.0,0.0,0,neutral,False
+39023,39023,"al-ahly fans are an epic worker, by god
+how do people who don't support al-ahly live ?
+ _ we _ follow _ each other",24,114,3.75,0,8,0,1,93.64,0.0,0,0.875,0,0,0,0.0,0.0,0,neutral,False
+28661,28661,"- and what do you mean by this number 5, son of a aunt, fruity, lucy, or enppi's?
+= my ranking in the local league, onkel",26,121,3.692307692307693,0,9,0,1,101.6,0.0,0,1.0,0,0,0,0.0,0.0,1,neutral,False
+36514,36514,"liverpool's stupidity is not natural. we are happy that they played an enjoyable run, but they don't tempt you to see your stadium and those against you are rangers. they play with rebound tactics and quick transfers between players.
+and by the way, napoli saw rangers score 4 zero, and liverpool could not get the second
+you return to the league and arsenal write you down",66,373,4.666666666666667,0,8,0,0,71.65,10.7,0,0.7878787878787878,0,0,0,0.0,0.0,1,neutral,False
+24462,24462," mansour
+the reason for defeating zamalek, the laser was not working",11,68,5.181818181818182,0,1,0,0,68.77,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,0,negative,False
+39550,39550,"haha, al-ahly's defense is correct",5,34,6.0,0,3,0,0,66.4,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+26529,26529,"mortada mansour, the meeting took place with the officials of future, and it was agreed that two players would transfer from zamalek to future, and the transfer of two players from future to zamalek, and the officials of future told me that schubert is not necessary",46,266,4.804347826086956,0,4,0,0,33.25,0.0,0,0.6521739130434783,0,0,0,0.0,0.0,0,neutral,False
+32314,32314,young jeddah is proud of riyadh ,6,32,4.333333333333333,0,0,0,0,99.23,0.0,0,1.0,0,0,0,0.0,0.0,0,positive,False
+22270,22270,"the important thing is that the ball hit the player's stomach, so it changed direction for his leg and it came to a goal",24,120,4.041666666666667,0,2,0,0,72.5,0.0,0,0.875,0,0,0,0.0,0.0,0,neutral,False
+27699,27699,"if al-ittihad without wheels walks, take the league, the crescent will not catch up with the old world, ha-ha-ha. i installed wings for them haha",25,145,4.84,0,7,0,0,84.17,0.0,0,0.92,0,0,0,0.0,0.0,0,neutral,False
+29107,29107,"-fayhaa _ al-ahly
+a sweet goal for algae, but it turned out to be offside",15,73,3.933333333333333,0,4,0,0,90.09,0.0,0,1.0,0,0,0,0.0,0.0,0,negative,False
+29413,29413,"the referee intends chelsea today, whoever encourages them should go to sleep, it is better for him haha",18,104,4.833333333333333,0,2,0,0,53.21,0.0,0,1.0,0,1,0,0.0,0.0,0,neutral,False
+35702,35702,"unfortunately, no wonder
+the (twitter) arena and its spaces are teeming with fat and fat from ""ideological"" identifiers tweeting against # al-ahly
+the strangest thing is that they have boys and followers of others, to be m. partner in his space or the priority of the mic
+every (mischievous) has an end",52,302,4.826923076923077,0,11,0,0,54.05,0.0,1,0.8653846153846154,0,0,0,0.0,0.0,0,neutral,False
+34970,34970,"those who are obsessed with us are empty of everything and are laughing at the words of the former handball player, haha, may god heal",25,134,4.4,0,2,0,0,63.02,0.0,0,0.84,0,0,0,0.0,0.0,0,neutral,False
+37889,37889,judgment hahaha,2,15,7.0,0,0,0,0,-6.7,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+26820,26820,"skill remains the ""star in football""",6,36,5.166666666666667,0,2,0,0,90.77,0.0,1,1.0,0,0,0,0.0,0.0,0,neutral,False
+22583,22583,"-hilal _ zamalek congratulations to the leader sorry africa, the leader is only one",14,83,5.0,0,3,0,0,48.81,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,neutral,False
+22048,22048,"arsenal in the european league:
+2017/18: semi-finals
+- 2018/19: final
+- 2019/20: round of 32
+2020/21: semi-finals
+- 2021/22: he did not participate
+- 2022/23: round of 16
+london pride",30,183,5.133333333333334,0,19,0,0,53.55,0.0,0,0.8,0,0,0,0.0,0.0,14,neutral,False
+31961,31961,haha street defense,3,19,5.666666666666667,0,0,0,0,59.97,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+33020,33020,arsenal goalkeeper..,2,20,9.5,0,2,0,0,-49.0,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+29723,29723,"i hid my happiness after city contracted with haaland so that i would not be accused of madness from the football slave party, and i told it to the people closest to me, and they accused me of madness, haha, and time has proven what i said.",47,240,4.127659574468085,0,5,0,0,49.15,0.0,0,0.8085106382978723,0,0,1,0.0,0.0,0,neutral,False
+28344,28344,"the referee went back to the video for the victory shot and i didn't catch up with her father, who was clearer",22,110,4.045454545454546,0,2,0,0,74.53,0.0,0,0.9090909090909092,0,0,0,0.0,0.0,0,neutral,False
+33025,33025,"-nahaiy_al-hilal_najm_al-sahili haha, they said we play in the european league, the tunisian league is much bigger than you",18,123,5.888888888888889,0,8,0,0,53.21,0.0,0,0.9444444444444444,0,0,0,0.0,0.0,0,neutral,False
+38960,38960,"don separated, i wish she chatted with the referee",9,50,4.666666666666667,0,1,0,0,53.88,0.0,0,1.0,0,0,0,0.1111111111111111,0.0,0,neutral,False
+24216,24216,"- before the match: if there is a purification of al-var in al-ahly matches, he will go to another degree haha
+- after the match: al-ahly won because of the car, and if it wasn't there, the match would have finished with taraji
+schizophrenia sons of abdel samad!",48,262,4.479166666666667,0,12,1,0,41.71,0.0,0,0.8125,0,0,0,0.0,0.0,0,neutral,False
+37909,37909,"oh referee anthony taylor we are promised disasters, i mean",10,59,5.0,0,1,0,0,52.87,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+24903,24903,"the sources on which the media of zamalek al-qabid and the mercenary rely do not exceed the squalor in mit oqba
+funny, bankrupt, and burned media with the fire of deprivation and burning
+and say hello to the ""chicken""",39,217,4.589743589743589,0,5,0,0,48.81,0.0,1,0.7435897435897436,0,0,0,0.0,0.0,0,neutral,False
+41391,41391,"al-faisaly, in a match with al-ahly, will be compensated for the points of the leader, provided that he submits a protest against al-naqaz, haha",24,144,5.041666666666667,0,7,0,0,64.04,0.0,0,0.9166666666666666,0,0,0,0.0,0.0,0,neutral,False
+36529,36529,"i zol dier attends the english + italian + french league in beto +
+i will attend you for a year without any subscription or renewal, and without a beehive device or khartoum international channel
+send me a dm and we won't be different",44,234,4.340909090909091,0,5,0,0,38.32,0.0,0,0.8181818181818182,0,0,0,0.0,0.0,0,neutral,False
+28949,28949,"is everything that connects his brain to al-ahly, will it be my world or what",15,77,4.2,0,2,0,0,90.09,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+39164,39164,"the legal representative of the sfaxien club: a normal legal run in which there is a return to self-esteem and exaggeration in joy, but unfortunately the referee got confused between the crutch and a certain type of vegetable... haha
+ _ tunisia
+",41,245,4.951219512195122,0,7,0,0,50.67,0.0,0,0.7804878048780488,0,0,0,0.0,0.0,0,positive,False
+24361,24361,"i liken -ahly to publishing??
+ hit it with two goals.. luxurious leather..
+it is worth mentioning -bakiri present at the meeting",21,128,5.095238095238095,0,8,0,2,81.29,8.8,0,0.9523809523809524,0,0,0,0.0,0.0,0,neutral,False
+39132,39132,"frankly, the player is coming here to chatter at us, take money and walk away. i hope the management of al-suwailem will abandon him in the winter and we will get a better professional in his place. haha.
+ _ is _ greater _ than _ ahmed _ musa",48,242,4.041666666666667,0,11,0,0,80.62,7.8,0,0.7916666666666666,0,0,0,0.0,0.0,0,positive,False
+25866,25866,"mortada in the presentation of the coach conference
+the first sentence about the coach, pd 53
+and the rest of him is your father and your mother
+hahahaha",28,153,4.5,0,1,0,0,51.52,0.0,0,0.75,0,0,0,0.0,0.0,1,neutral,False
+34258,34258,"and let the dogs who gave you the green light, haha, get you out of the predicament that put you in victory and honor for our heroes in the islamic jihad and hamas, and extended by the living and sustaining king, the army of the living and sustained king will annihilate you by divine, heavenly, royal orders.",57,309,4.43859649122807,0,7,0,0,30.54,0.0,0,0.6842105263157895,0,0,0,0.0,0.0,0,neutral,False
+29242,29242,"-ahly_i to open
+a four-wheel drive spoiler club is currently happening.
+haha, no, he went to the mouse, and there was nothing",22,125,4.727272727272728,0,7,0,0,77.23,0.0,0,0.9545454545454546,0,0,0,0.0,0.0,0,neutral,False
+35055,35055,"al-ahly won 4
+well, i swear to god, i will consider it a sign",14,61,3.4285714285714284,0,3,0,0,99.57,0.0,0,0.9285714285714286,0,0,0,0.0,0.0,1,positive,False
+30941,30941,crescent defense haha,3,21,6.333333333333333,0,0,0,0,34.59,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+39648,39648," _ al-hazm _ al-douri
+oh my love, the boy who won the ball.",13,59,3.5384615384615383,0,6,0,0,92.12,0.0,0,0.8461538461538461,0,0,0,0.0,0.0,0,neutral,False
+35285,35285,"you praise the one-eyed calf, the stray dog, the guardian of the flock, the long-legged antichrist, you say to him a fluttering bird god willing, i will urinate on his head and raise his wings, and roast him while he is alive the long shadow huh with your knowledge, i turn a submissive dog running away like a mouse hiding in its hole by god's permission alone, i can catch him alive together with his tail the stray one-eyed dog and his tails",83,444,4.36144578313253,0,12,0,0,21.07,0.0,0,0.7228915662650602,0,0,0,0.0,0.0,0,neutral,False
+30455,30455,"the easiest match, by god, is not an atmosphere.",9,48,4.444444444444445,0,3,0,0,79.26,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+37538,37538," _ audience _ fired _ the _ loser
+come back, we were joking with you
+god you are sooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",19,165,7.684210526315789,0,5,0,0,86.03,0.0,0,0.7894736842105263,0,0,0,0.0,0.0,0,neutral,False
+26870,26870,"the match that showed you that you don't have a coach for tactics and nothing wasted play, and a lost team saw that they needed a goal, and he replaced a defender with a defender haha",36,183,4.111111111111111,0,3,0,0,60.32,0.0,0,0.7222222222222222,0,0,0,0.0,0.0,0,neutral,False
+27220,27220," _ al-ahly _ like _ al-ittihad
+i mean, they save him from fifa's decision",14,73,4.214285714285714,0,7,0,0,74.19,0.0,0,0.8571428571428571,0,0,0,0.0,0.0,0,positive,False
+27062,27062,"zamalek, peace
+mohamed abdel-ghani khurram al-dafaa
+zamalek was speechless
+zamalek as * s m final",15,97,5.533333333333333,0,4,0,0,57.27,0.0,0,0.9333333333333332,0,0,0,0.0,0.0,0,neutral,False
+25089,25089,"wake up, people.. wake up, al-ahly world, before the world cup final",12,68,4.75,0,6,0,0,90.77,0.0,0,0.8333333333333334,0,0,0,0.0,0.0,0,neutral,False
+30458,30458,"
+no one knows a good movie for the evening, haha, i'm joking about al-ahly's mouth, guys",16,88,4.5,0,6,0,0,97.54,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+32053,32053,"in a student who went to school, the guard did not find a record of saying haha",17,79,3.7058823529411766,0,1,0,0,88.06,0.0,0,0.9411764705882352,0,0,0,0.0,0.0,0,neutral,False
+31422,31422, is zero,2,8,3.0,0,0,0,0,77.91,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+23943,23943,"casemiro
+he played more than 300 matches in the spanish league
+with  without any  card directly!!
+but who moved to manchester united?
+twice  card directly!!
+with his first season!! in the english premier league
+and they say  has a suspicion of corruption!?",42,256,5.023809523809524,0,9,7,2,79.87,8.8,0,0.8571428571428571,0,0,0,0.0,0.0,1,neutral,False
+37180,37180,"the referee is biased towards al-hilal and al-nasr club, haha",10,61,5.2,0,3,0,0,44.41,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+33146,33146,"the duty is to withdraw al-ahly from this year's local championships, objecting to the permanent injustice, and devoting itself to the african championship with the work of a gulf and european tour to play with first-ranked teams..the goal is to raise the level, maintain physical fitness, and benefit financially from the matches..and say hello to the state of zamalek and the informant who brought us back to the sixties",69,422,5.130434782608695,0,11,0,0,56.59,14.6,0,0.6956521739130435,0,0,0,0.0,0.0,0,neutral,False
+33963,33963,"haha, the referee forgets the mouse. and allied that barcelona maevouz tonight",12,78,5.583333333333333,0,2,0,0,82.31,0.0,0,0.9166666666666666,0,0,0,0.0,0.0,0,neutral,False
+25181,25181," _ youth
+glory be to god, al-ahly is right
+hahahaha",10,51,4.1,0,3,0,0,78.25,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+28424,28424,"the best thing is when the ball comes to us, we return it to them again, or we don't know how to stop it at all we stay for god in us, by god",34,141,3.176470588235294,0,4,0,0,87.73,0.0,0,0.7647058823529411,0,1,0,0.0,0.0,0,neutral,False
+23774,23774,"-nasr_al-rayed, the presenter of al-hilal's assistant program, says al-nasr won despite its difficulty, and always praises al-hilal in the al-hilal match. al-hilal wins a goal, and says al-hilal won.",29,199,5.896551724137931,0,16,0,0,39.84,0.0,0,0.7931034482758621,0,1,0,0.0,0.0,0,positive,False
+35699,35699,"some of us are wasting their time with comparisons between players . every player encourages the right of his team, haha, even with the world's national teams. what's new with our national team .. forza brazil",36,209,4.833333333333333,0,8,0,0,76.93,9.7,0,0.8611111111111112,0,0,0,0.0,0.0,0,neutral,False
+36231,36231,"someone saw john taraji, who is still coming now?",9,49,4.555555555555555,0,2,0,1,87.72,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+38496,38496,"you know, there is a benefit to him, and if i feel that he will terminate the contract, he will not sit for two seasons, but the league will become our right and we will have great players, and there will be some enthusiasm and activities haha",47,243,4.191489361702128,0,5,0,0,49.15,0.0,0,0.7872340425531915,0,0,0,0.0212765957446808,0.0,0,positive,False
+32891,32891,i discovered that you watched football because of the players haha ,11,67,5.090909090909091,0,0,0,0,68.77,0.0,0,1.0,0,0,0,0.0,0.0,0,neutral,False
+38395,38395,"real madrid, milan or napoli in the final
+real madrid almost plays in the english premier league",17,96,4.705882352941177,0,1,0,0,71.14,0.0,0,0.8235294117647058,0,0,0,0.0,0.0,0,neutral,False
+32846,32846,but i am very happy about the success of the sheep revolution yesterday and the most beautiful evening in the scandals of al-jazeera.,23,133,4.826086956521739,0,2,0,0,56.59,0.0,0,0.8260869565217391,0,0,0,0.0,0.0,0,positive,False
+39349,39349,"bahi, the owners of the championship theory settled for messi, with the complicity of the referees and organizers
+how does francis become closer to winning?
+by god, anyone who is a runner and has his soul, let the football go, just let us know. we do not advise you
+this is your time",53,283,4.358490566037736,0,7,0,1,70.43,10.5,0,0.8490566037735849,0,0,0,0.0,0.0,0,neutral,False
