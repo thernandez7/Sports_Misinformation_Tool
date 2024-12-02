@@ -1,0 +1,67 @@
+@startuml Sports Misinformation Tool Sequence
+
+skinparam backgroundColor white
+skinparam sequenceMessageAlign center
+
+' Color definitions
+skinparam participant {
+    BackgroundColor LightYellow
+    BorderColor DarkGoldenRod
+}
+
+skinparam actor {
+    BackgroundColor White
+    BorderColor DarkSlateGray
+}
+
+skinparam sequence {
+    ArrowColor DarkSlateGray
+    LifeLineBorderColor Gray
+    LifeLineBackgroundColor LightGray
+    GroupBackgroundColor LightCyan
+    GroupBodyBackgroundColor WhiteSmoke
+}
+
+actor User #DarkSlateGray
+participant "Query Interface" as UI #LightYellow
+participant "RSS Feed Parser" as RSS #LightYellow
+participant "Classification Model" as Model #LightSalmon
+participant "Database" as DB #LightSkyBlue
+
+' Data Collection and Classification Phase
+group #LightCyan RSS Feed Processing
+    RSS -> RSS: Fetch new articles
+    
+    loop #LightGray for each article
+        RSS -> Model: Classify article
+        activate Model
+        Model --> RSS: Return credibility score
+        deactivate Model
+        
+        RSS -> DB: Store article with classification\nand credibility score
+        activate DB
+        DB --> RSS: Confirm storage
+        deactivate DB
+    end
+end
+
+' Query Phase
+User -> UI: Search for team/player
+activate UI
+
+UI -> DB: Query articles
+activate DB
+DB --> UI: Return pre-classified articles
+deactivate DB
+
+UI --> User: Display articles with\nstored credibility scores
+deactivate UI
+
+legend center
+  |Color|Component|
+  |<#LightYellow>|Interface Components|
+  |<#LightSkyBlue>|Data Storage|
+  |<#LightSalmon>|Machine Learning|
+endlegend
+
+@enduml

@@ -1,0 +1,49 @@
+@startuml Sports Misinformation Tool Components
+
+skinparam componentStyle rectangle
+skinparam backgroundColor white
+skinparam roundcorner 20
+
+' Color definitions
+skinparam component {
+    BackgroundColor<<Data>> LightSkyBlue
+    BackgroundColor<<Analysis>> LightGreen
+    BackgroundColor<<ML>> LightSalmon
+    BackgroundColor<<UI>> LightYellow
+    BorderColor DarkGray
+    ArrowColor DarkSlateGray
+}
+
+skinparam database {
+    BackgroundColor LightSkyBlue
+    BorderColor DarkGray
+}
+
+package "Data Collection" {
+  [RSS Feed Parser]<<Data>> as RSSParser
+  database "Sports News Database" as DB
+}
+
+package "Machine Learning" {
+  [Classification Model]<<ML>> as ClassificationModel
+}
+
+package "User Interface" {
+  [Query Interface]<<UI>> as QueryInterface
+}
+
+' Component relationships
+RSSParser -[#4B0082]-> ClassificationModel : Send articles
+ClassificationModel -[#4B0082]-> RSSParser : Return credibility scores
+RSSParser -[#4B0082]-> DB : Store articles with\nclassification
+DB -[#4B0082]-> QueryInterface : Provide pre-classified\narticles
+QueryInterface -[#4B0082]-> DB : Query articles
+
+legend center
+  |Color|Type|
+  |<#LightSkyBlue>|Data Components|
+  |<#LightSalmon>|Machine Learning|
+  |<#LightYellow>|User Interface|
+endlegend
+
+@enduml
