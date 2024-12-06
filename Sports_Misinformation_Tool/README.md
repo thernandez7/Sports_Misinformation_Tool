@@ -10,4 +10,6 @@ The CSVs include the various datasets we worked with and created throughout our 
 
 The main one to note is **All_RSS_articles.csv**, which contains all the data the models are trained/tested on. 
 
+Note: Glove embedding was too large to push, so must be downloaded before running. 
+
 
